@@ -1,0 +1,16 @@
+{
+  "doc_id": "rcp_89",
+  "doc_type": "job_completion_certificate",
+  "reference": "MTC-2026-JCR-INT-3089",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Fire Protection Specialist",
+  "project": "Doha Showroom Upgrade",
+  "date": "21-JAN-2026",
+  "work_description": "FM200 ROOM INTEGRITY TEST (1 QCDD)",
+  "unit": "LUMPSUM",
+  "qty": 1,
+  "completion": "100% COMPLETED",
+  "lpo_ref": "OMS-2026-PO-0687",
+  "invoice_ref": "5889",
+  "amount": 7000.0
+}

@@ -1,0 +1,28 @@
+{
+  "doc_id": "po_2",
+  "doc_type": "purchase_order",
+  "po_number": "OMS-2026-PO-0600",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Manycon Trading & Contracting WLL",
+  "project": "Warehouse Refurbishment – Street 41 (Al Asmakh)",
+  "date": "January 22, 2026",
+  "currency": "QAR",
+  "payment_terms": "40% advance 55% progress 5% retention",
+  "items": [
+    {
+      "description": "Glass door with wooden frame (lumpsum)",
+      "qty": 1,
+      "unit": "Nos",
+      "unit_price": 14700.0,
+      "amount": 14700.0
+    }
+  ],
+  "totals": {
+    "subtotal": 14700.0,
+    "tax": 735.0,
+    "total": 15435.0
+  },
+  "references": {
+    "quote_ref": "3202"
+  }
+}

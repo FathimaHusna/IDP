@@ -1,0 +1,38 @@
+{
+  "doc_id": "inv_81",
+  "doc_type": "invoice",
+  "invoice_number": "5881",
+  "invoice_type": "TAX INVOICE",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Qasr Al Abwab Trading & Contracting WLL",
+  "project": "Najma Office Fitout",
+  "date": "February 05, 2026",
+  "due_date": "February 05, 2026",
+  "currency": "QAR",
+  "payment_terms": "40% advance 60% upon delivery",
+  "items": [
+    {
+      "description": "FM 200 integrity testing (1-QCDD)",
+      "qty": 1,
+      "unit": "Nos",
+      "unit_price": 14700.0,
+      "amount": 14700.0
+    }
+  ],
+  "lpo_ref": "OMS-2026-PO-0679",
+  "totals": {
+    "subtotal": 14700.0,
+    "tax": 0.0,
+    "discount": 0.0,
+    "advance_received": 5880.0,
+    "retention": 0.0,
+    "total": 14700.0,
+    "amount_due": 8820.0
+  },
+  "bank": {
+    "iban": "QA21 MAFR 0000 0000 0011 1040 9700 1",
+    "swift": "MAFRQAQA",
+    "bank": "ALRAYAN",
+    "branch": "SALWA ROAD BRANCH"
+  }
+}

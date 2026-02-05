@@ -1,0 +1,28 @@
+{
+  "doc_id": "po_95",
+  "doc_type": "purchase_order",
+  "po_number": "OMS-2026-PO-0693",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Fire Protection Specialist",
+  "project": "Katara Metro Station",
+  "date": "04-JAN-2026",
+  "currency": "QAR",
+  "payment_terms": "100% upon completion",
+  "items": [
+    {
+      "description": "FM 200 integrity testing (1-QCDD)",
+      "qty": 1,
+      "unit": "Lot",
+      "unit_price": 500.0,
+      "amount": 500.0
+    }
+  ],
+  "totals": {
+    "subtotal": 500.0,
+    "tax": 25.0,
+    "total": 525.0
+  },
+  "references": {
+    "quote_ref": "3295"
+  }
+}

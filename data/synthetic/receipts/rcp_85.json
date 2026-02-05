@@ -1,0 +1,16 @@
+{
+  "doc_id": "rcp_85",
+  "doc_type": "job_completion_certificate",
+  "reference": "MTC-2026-JCR-INT-3085",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Manycon Trading & Contracting WLL",
+  "project": "Najma Office Fitout",
+  "date": "February 04, 2026",
+  "work_description": "FM200 ROOM INTEGRITY TEST (1 QCDD)",
+  "unit": "LUMPSUM",
+  "qty": 1,
+  "completion": "100% COMPLETED",
+  "lpo_ref": "OMS-2026-PO-0683",
+  "invoice_ref": "5885",
+  "amount": 3675.0
+}

@@ -1,0 +1,38 @@
+{
+  "doc_id": "inv_71",
+  "doc_type": "invoice",
+  "invoice_number": "5871",
+  "invoice_type": "TAX INVOICE",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Qasr Al Abwab Trading & Contracting WLL",
+  "project": "Katara Metro Station",
+  "date": "23-JAN-2026",
+  "due_date": "January 19, 2026",
+  "currency": "QAR",
+  "payment_terms": "100% upon completion",
+  "items": [
+    {
+      "description": "FM 200 integrity testing (1-QCDD)",
+      "qty": 2,
+      "unit": "Nos",
+      "unit_price": 1000.0,
+      "amount": 2000.0
+    }
+  ],
+  "lpo_ref": "OMS-2026-PO-0669",
+  "totals": {
+    "subtotal": 2000.0,
+    "tax": 0.0,
+    "discount": 0.0,
+    "advance_received": 0.0,
+    "retention": 0.0,
+    "total": 2000.0,
+    "amount_due": 2000.0
+  },
+  "bank": {
+    "iban": "QA21 MAFR 0000 0000 0011 1040 9700 1",
+    "swift": "MAFRQAQA",
+    "bank": "ALRAYAN",
+    "branch": "SALWA ROAD BRANCH"
+  }
+}

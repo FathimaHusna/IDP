@@ -1,0 +1,16 @@
+__pycache__/
+.pytest_cache/
+.venv/
+.git/
+logs/
+graphs/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swm
+*.swo
+*.DS_Store
+*.egg-info/
+node_modules/
+

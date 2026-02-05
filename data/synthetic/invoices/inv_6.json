@@ -1,0 +1,38 @@
+{
+  "doc_id": "inv_6",
+  "doc_type": "invoice",
+  "invoice_number": "5806",
+  "invoice_type": "TAX INVOICE",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Al Mirza Trading & Contracting WLL",
+  "project": "Najma Office Fitout",
+  "date": "February 03, 2026",
+  "due_date": "30-JAN-2026",
+  "currency": "QAR",
+  "payment_terms": "100% upon completion",
+  "items": [
+    {
+      "description": "Glass door with wooden frame (lumpsum)",
+      "qty": 1,
+      "unit": "Lot",
+      "unit_price": 1000.0,
+      "amount": 1000.0
+    }
+  ],
+  "lpo_ref": "OMS-2026-PO-0604",
+  "totals": {
+    "subtotal": 1000.0,
+    "tax": 0.0,
+    "discount": 0.0,
+    "advance_received": 0.0,
+    "retention": 0.0,
+    "total": 1000.0,
+    "amount_due": 1000.0
+  },
+  "bank": {
+    "iban": "QA21 MAFR 0000 0000 0011 1040 9700 1",
+    "swift": "MAFRQAQA",
+    "bank": "ALRAYAN",
+    "branch": "SALWA ROAD BRANCH"
+  }
+}

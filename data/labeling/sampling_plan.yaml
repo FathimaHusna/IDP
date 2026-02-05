@@ -1,0 +1,35 @@
+templates:
+  - name: al_mirza_invoice
+    target_total: 50
+    train: 35
+    val: 7
+    test: 8
+    vendors: ["AL MIRZA TRADING & CONTRACTING W.L.L"]
+    notes: ["pipe-prefixed totals: SUBTOTAL/PROFORMA VALUE", "QAR/QR mixed"]
+  - name: oryxi_manycon_invoice
+    target_total: 50
+    train: 35
+    val: 7
+    test: 8
+    vendors: ["Manycon Trading & Contracting WLL", "ORYXI Maintenance Services (Buyer)"]
+    notes: ["Invoice number near bilingual label", "Total due/Total QAR"]
+  - name: qasr_invoice
+    target_total: 50
+    train: 35
+    val: 7
+    test: 8
+    vendors: ["Qasr Al Abwab Trading & Contracting WLL"]
+    notes: ["FINAL PAYMENT present", "TOTAL AMOUNT line"]
+  - name: mtc_receipt
+    target_total: 50
+    train: 35
+    val: 7
+    test: 8
+    vendors: ["Manycon Trading & Contracting WLL"]
+    notes: ["Job completion / delivery note", "REF NO / LPO REF"]
+
+guidelines:
+  split_policy: vendor_holdout
+  kpis: ["per-template completeness", "math_check_pass", "route_rate"]
+  bbox_fields_common: ["invoice_number", "total", "lpo_ref", "date", "reference"]
+  storage: encrypted

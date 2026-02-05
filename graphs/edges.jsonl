@@ -1,0 +1,7 @@
+{"src": "CHAIN:OMS-2026-PO-0615", "dst": "VENDOR:fire protection specialist", "rel": "VENDOR"}
+{"src": "CHAIN:OMS-2026-PO-0615", "dst": "PO:OMS-2026-PO-0615", "rel": "HAS_PO"}
+{"src": "CHAIN:OMS-2026-PO-0615", "dst": "INV:5817", "rel": "HAS_INVOICE", "total": 1000.0}
+{"src": "CHAIN:OMS-2026-PO-0615", "dst": "RCP:MTC-2026-JCR-INT-3017", "rel": "HAS_RECEIPT", "amount": 1000.0}
+{"src": "CHAIN:OMS-2026-PO-0615", "dst": "DOC:a19c1664a8c9e07b", "rel": "HAS_DOC"}
+{"src": "CHAIN:OMS-2026-PO-0615", "dst": "DOC:3f584868897393b6", "rel": "HAS_DOC"}
+{"src": "CHAIN:OMS-2026-PO-0615", "dst": "DOC:906efdbc9d987750", "rel": "HAS_DOC"}

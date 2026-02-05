@@ -1,0 +1,38 @@
+{
+  "doc_id": "inv_4",
+  "doc_type": "invoice",
+  "invoice_number": "5804",
+  "invoice_type": "فاتورة ضريبية",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Fire Protection Specialist",
+  "project": "Katara Metro Station",
+  "date": "30-JAN-2026",
+  "due_date": "January 30, 2026",
+  "currency": "QAR",
+  "payment_terms": "40% advance 60% upon delivery",
+  "items": [
+    {
+      "description": "FM 200 integrity testing (1-QCDD)",
+      "qty": 2,
+      "unit": "Nos",
+      "unit_price": 14700.0,
+      "amount": 29400.0
+    }
+  ],
+  "lpo_ref": "OMS-2026-PO-0602",
+  "totals": {
+    "subtotal": 29400.0,
+    "tax": 0.0,
+    "discount": 0.0,
+    "advance_received": 11760.0,
+    "retention": 0.0,
+    "total": 29400.0,
+    "amount_due": 17640.0
+  },
+  "bank": {
+    "iban": "QA21 MAFR 0000 0000 0011 1040 9700 1",
+    "swift": "MAFRQAQA",
+    "bank": "ALRAYAN",
+    "branch": "SALWA ROAD BRANCH"
+  }
+}

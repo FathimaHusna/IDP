@@ -1,0 +1,28 @@
+{
+  "doc_id": "po_19",
+  "doc_type": "purchase_order",
+  "po_number": "OMS-2026-PO-0617",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Al Mirza Trading & Contracting WLL",
+  "project": "Doha Showroom Upgrade",
+  "date": "January 04, 2026",
+  "currency": "QAR",
+  "payment_terms": "40% advance 55% progress 5% retention",
+  "items": [
+    {
+      "description": "Glass door with wooden frame (lumpsum)",
+      "qty": 1,
+      "unit": "Nos",
+      "unit_price": 500.0,
+      "amount": 500.0
+    }
+  ],
+  "totals": {
+    "subtotal": 500.0,
+    "tax": 25.0,
+    "total": 525.0
+  },
+  "references": {
+    "quote_ref": "3219"
+  }
+}

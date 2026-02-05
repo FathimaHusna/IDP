@@ -1,0 +1,16 @@
+{
+  "doc_id": "rcp_1",
+  "doc_type": "job_completion_certificate",
+  "reference": "MTC-2026-JCR-INT-3001",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Manycon Trading & Contracting WLL",
+  "project": "Katara Metro Station",
+  "date": "13-FEB-2026",
+  "work_description": "FM200 ROOM INTEGRITY TEST (1 QCDD)",
+  "unit": "LUMPSUM",
+  "qty": 1,
+  "completion": "100% COMPLETED",
+  "lpo_ref": "OMS-2026-PO-0599",
+  "invoice_ref": "5801",
+  "amount": 1000.0
+}

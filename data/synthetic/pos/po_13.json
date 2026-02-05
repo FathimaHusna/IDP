@@ -1,0 +1,28 @@
+{
+  "doc_id": "po_13",
+  "doc_type": "purchase_order",
+  "po_number": "OMS-2026-PO-0611",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Fire Protection Specialist",
+  "project": "Katara Metro Station",
+  "date": "January 18, 2026",
+  "currency": "QAR",
+  "payment_terms": "100% upon completion",
+  "items": [
+    {
+      "description": "Supply & installation of non-fire rated wood door with HW set",
+      "qty": 1,
+      "unit": "Nos",
+      "unit_price": 1000.0,
+      "amount": 1000.0
+    }
+  ],
+  "totals": {
+    "subtotal": 1000.0,
+    "tax": 0.0,
+    "total": 1000.0
+  },
+  "references": {
+    "quote_ref": "3213"
+  }
+}

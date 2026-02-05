@@ -1,0 +1,38 @@
+{
+  "doc_id": "inv_47",
+  "doc_type": "invoice",
+  "invoice_number": "5847",
+  "invoice_type": "TAX INVOICE",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Manycon Trading & Contracting WLL",
+  "project": "Katara Metro Station",
+  "date": "12-JAN-2026",
+  "due_date": "January 12, 2026",
+  "currency": "QAR",
+  "payment_terms": "40% advance 55% progress 5% retention",
+  "items": [
+    {
+      "description": "Glass door with wooden frame (lumpsum)",
+      "qty": 1,
+      "unit": "Lot",
+      "unit_price": 14700.0,
+      "amount": 14700.0
+    }
+  ],
+  "lpo_ref": "OMS-2026-PO-0645",
+  "totals": {
+    "subtotal": 14700.0,
+    "tax": 735.0,
+    "discount": 0.0,
+    "advance_received": 6174.0,
+    "retention": 771.75,
+    "total": 15435.0,
+    "amount_due": 8489.25
+  },
+  "bank": {
+    "iban": "QA21 MAFR 0000 0000 0011 1040 9700 1",
+    "swift": "MAFRQAQA",
+    "bank": "ALRAYAN",
+    "branch": "SALWA ROAD BRANCH"
+  }
+}

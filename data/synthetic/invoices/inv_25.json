@@ -1,0 +1,38 @@
+{
+  "doc_id": "inv_25",
+  "doc_type": "invoice",
+  "invoice_number": "5825",
+  "invoice_type": "PROFORMA INVOICE",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Manycon Trading & Contracting WLL",
+  "project": "Najma Office Fitout",
+  "date": "20-JAN-2026",
+  "due_date": "January 20, 2026",
+  "currency": "QAR",
+  "payment_terms": "100% upon completion",
+  "items": [
+    {
+      "description": "Supply & installation of fire rated wood door with HW set",
+      "qty": 1,
+      "unit": "Lot",
+      "unit_price": 500.0,
+      "amount": 500.0
+    }
+  ],
+  "lpo_ref": "OMS-2026-PO-0623",
+  "totals": {
+    "subtotal": 500.0,
+    "tax": 0.0,
+    "discount": 0.0,
+    "advance_received": 0.0,
+    "retention": 0.0,
+    "total": 500.0,
+    "amount_due": 500.0
+  },
+  "bank": {
+    "iban": "QA21 MAFR 0000 0000 0011 1040 9700 1",
+    "swift": "MAFRQAQA",
+    "bank": "ALRAYAN",
+    "branch": "SALWA ROAD BRANCH"
+  }
+}

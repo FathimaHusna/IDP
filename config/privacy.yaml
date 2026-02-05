@@ -1,0 +1,21 @@
+env: demo
+patterns:
+  email: true
+  phone: true
+  iban: true
+  swift: true
+  bank_account: true
+  qid: true
+  pan: true
+mask:
+  email: "████████"
+  phone: "███-███-████"
+  iban: "████████IBAN████"
+  swift: "████SWIFT████"
+  bank_account: "████ACCOUNT████"
+  qid: "████QID████"
+  pan: "████CARD████"
+context_keywords:
+  bank_account: ["account", "account number", "acc", "a/c", "iban", "swift"]
+  qid: ["qid", "qatar id", "id no", "id number"]
+  pan: ["card", "visa", "mastercard", "credit", "debit"]

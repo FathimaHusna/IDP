@@ -1,0 +1,28 @@
+{
+  "doc_id": "po_29",
+  "doc_type": "purchase_order",
+  "po_number": "OMS-2026-PO-0627",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Fire Protection Specialist",
+  "project": "Katara Metro Station",
+  "date": "19-JAN-2026",
+  "currency": "QAR",
+  "payment_terms": "40% advance 55% progress 5% retention",
+  "items": [
+    {
+      "description": "Glass door with wooden frame (lumpsum)",
+      "qty": 1,
+      "unit": "Lot",
+      "unit_price": 3500.0,
+      "amount": 3500.0
+    }
+  ],
+  "totals": {
+    "subtotal": 3500.0,
+    "tax": 0.0,
+    "total": 3500.0
+  },
+  "references": {
+    "quote_ref": "3229"
+  }
+}

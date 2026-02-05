@@ -1,0 +1,28 @@
+{
+  "doc_id": "po_59",
+  "doc_type": "purchase_order",
+  "po_number": "OMS-2026-PO-0657",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Fire Protection Specialist",
+  "project": "Doha Showroom Upgrade",
+  "date": "18-JAN-2026",
+  "currency": "QAR",
+  "payment_terms": "100% upon completion",
+  "items": [
+    {
+      "description": "Glass door with wooden frame (lumpsum)",
+      "qty": 1,
+      "unit": "Nos",
+      "unit_price": 14700.0,
+      "amount": 14700.0
+    }
+  ],
+  "totals": {
+    "subtotal": 14700.0,
+    "tax": 0.0,
+    "total": 14700.0
+  },
+  "references": {
+    "quote_ref": "3259"
+  }
+}

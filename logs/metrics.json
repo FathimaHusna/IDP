@@ -1,0 +1,31 @@
+{
+  "counts": {
+    "documents": 3,
+    "errors": 0
+  },
+  "routes": {
+    "auto_accept": 2,
+    "review": 1
+  },
+  "types": {
+    "invoice": 1,
+    "po": 1,
+    "receipt": 1
+  },
+  "means": {
+    "ocr_quality": 0.98,
+    "final_confidence": 0.9433,
+    "completeness": 0.75,
+    "validation_score": 1.0
+  },
+  "reconciliation": {
+    "status_counts": {
+      "invoice_only": 1,
+      "receipt_only": 1
+    },
+    "anomalies": {}
+  },
+  "reason_codes": {
+    "schema:1 validation error for ReceiptPayload\ncurrency\n  Field required [type=missing, input_value={'reference': 'RCP-0001',...-1234', 'amount': 110.0}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/missing": 1
+  }
+}

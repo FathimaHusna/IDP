@@ -1,0 +1,38 @@
+{
+  "doc_id": "inv_97",
+  "doc_type": "invoice",
+  "invoice_number": "5897",
+  "invoice_type": "فاتورة ضريبية",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Al Mirza Trading & Contracting WLL",
+  "project": "Doha Showroom Upgrade",
+  "date": "23-JAN-2026",
+  "due_date": "January 23, 2026",
+  "currency": "QAR",
+  "payment_terms": "40% advance 55% progress 5% retention",
+  "items": [
+    {
+      "description": "Glass door with wooden frame (lumpsum)",
+      "qty": 1,
+      "unit": "Nos",
+      "unit_price": 1000.0,
+      "amount": 1000.0
+    }
+  ],
+  "lpo_ref": "OMS-2026-PO-0695",
+  "totals": {
+    "subtotal": 1000.0,
+    "tax": 0.0,
+    "discount": 0.0,
+    "advance_received": 400.0,
+    "retention": 50.0,
+    "total": 1000.0,
+    "amount_due": 550.0
+  },
+  "bank": {
+    "iban": "QA21 MAFR 0000 0000 0011 1040 9700 1",
+    "swift": "MAFRQAQA",
+    "bank": "ALRAYAN",
+    "branch": "SALWA ROAD BRANCH"
+  }
+}

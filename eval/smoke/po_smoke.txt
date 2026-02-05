@@ -1,0 +1,7 @@
+Purchase Order
+PO Number: OMS-PO-001
+Vendor: ALPHA WLL
+Total: 110.00
+Currency: QAR
+Item | 1 | 100.00 | 100.00
+

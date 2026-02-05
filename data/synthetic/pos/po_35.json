@@ -1,0 +1,28 @@
+{
+  "doc_id": "po_35",
+  "doc_type": "purchase_order",
+  "po_number": "OMS-2026-PO-0633",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Fire Protection Specialist",
+  "project": "Warehouse Refurbishment – Street 41 (Al Asmakh)",
+  "date": "05-JAN-2026",
+  "currency": "QAR",
+  "payment_terms": "40% advance 60% upon delivery",
+  "items": [
+    {
+      "description": "Supply & installation of non-fire rated wood door with HW set",
+      "qty": 1,
+      "unit": "Nos",
+      "unit_price": 14700.0,
+      "amount": 14700.0
+    }
+  ],
+  "totals": {
+    "subtotal": 14700.0,
+    "tax": 735.0,
+    "total": 15435.0
+  },
+  "references": {
+    "quote_ref": "3235"
+  }
+}

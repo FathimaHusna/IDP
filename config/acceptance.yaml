@@ -1,0 +1,22 @@
+gates:
+  # Basic health of run
+  max_errors: 0
+  min_documents: 3
+
+  # Quality/accuracy proxies (coarse, for smoke)
+  min_mean_ocr_quality: 0.5
+  min_mean_final_confidence: 0.6
+
+  # Optional distributions (soft expectations)
+  expected_types:
+    invoice: 
+      min: 1
+    po:
+      min: 1
+    receipt:
+      min: 1
+
+  # Prohibit egregious issues in smoke
+  forbid_reason_codes:
+    - schema:negative amount
+

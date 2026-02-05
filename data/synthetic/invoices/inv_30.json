@@ -1,0 +1,38 @@
+{
+  "doc_id": "inv_30",
+  "doc_type": "invoice",
+  "invoice_number": "5830",
+  "invoice_type": "TAX INVOICE",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Fire Protection Specialist",
+  "project": "Katara Metro Station",
+  "date": "16-JAN-2026",
+  "due_date": "January 16, 2026",
+  "currency": "QAR",
+  "payment_terms": "40% advance 55% progress 5% retention",
+  "items": [
+    {
+      "description": "Supply & installation of non-fire rated wood door with HW set",
+      "qty": 1,
+      "unit": "Lot",
+      "unit_price": 14700.0,
+      "amount": 14700.0
+    }
+  ],
+  "lpo_ref": "OMS-2026-PO-0628",
+  "totals": {
+    "subtotal": 14700.0,
+    "tax": 735.0,
+    "discount": 0.0,
+    "advance_received": 6174.0,
+    "retention": 771.75,
+    "total": 15435.0,
+    "amount_due": 8489.25
+  },
+  "bank": {
+    "iban": "QA21 MAFR 0000 0000 0011 1040 9700 1",
+    "swift": "MAFRQAQA",
+    "bank": "ALRAYAN",
+    "branch": "SALWA ROAD BRANCH"
+  }
+}

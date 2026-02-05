@@ -1,0 +1,38 @@
+{
+  "doc_id": "inv_98",
+  "doc_type": "invoice",
+  "invoice_number": "5898",
+  "invoice_type": "PROFORMA INVOICE",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Al Mirza Trading & Contracting WLL",
+  "project": "Katara Metro Station",
+  "date": "February 08, 2026",
+  "due_date": "February 04, 2026",
+  "currency": "QAR",
+  "payment_terms": "40% advance 55% progress 5% retention",
+  "items": [
+    {
+      "description": "Supply & installation of non-fire rated wood door with HW set",
+      "qty": 2,
+      "unit": "Nos",
+      "unit_price": 3500.0,
+      "amount": 7000.0
+    }
+  ],
+  "lpo_ref": "OMS-2026-PO-0696",
+  "totals": {
+    "subtotal": 7000.0,
+    "tax": 350.0,
+    "discount": 0.0,
+    "advance_received": 2940.0,
+    "retention": 367.5,
+    "total": 7350.0,
+    "amount_due": 4042.5
+  },
+  "bank": {
+    "iban": "QA21 MAFR 0000 0000 0011 1040 9700 1",
+    "swift": "MAFRQAQA",
+    "bank": "ALRAYAN",
+    "branch": "SALWA ROAD BRANCH"
+  }
+}

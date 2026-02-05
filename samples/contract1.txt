@@ -1,0 +1,8 @@
+Contract Agreement
+Between: Contoso Ltd and Fabrikam Ltd
+Effective Date: 2025-03-01
+Term: 24 months
+Governing Law: England and Wales
+
+Parties agree to terms and conditions herein.
+

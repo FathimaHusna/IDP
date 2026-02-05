@@ -1,0 +1,28 @@
+{
+  "doc_id": "po_63",
+  "doc_type": "purchase_order",
+  "po_number": "OMS-2026-PO-0661",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Al Mirza Trading & Contracting WLL",
+  "project": "Najma Office Fitout",
+  "date": "January 22, 2026",
+  "currency": "QAR",
+  "payment_terms": "100% upon completion",
+  "items": [
+    {
+      "description": "Supply & installation of fire rated wood door with HW set",
+      "qty": 1,
+      "unit": "Lot",
+      "unit_price": 14700.0,
+      "amount": 14700.0
+    }
+  ],
+  "totals": {
+    "subtotal": 14700.0,
+    "tax": 0.0,
+    "total": 14700.0
+  },
+  "references": {
+    "quote_ref": "3263"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "doc_id": "rcp_13",
+  "doc_type": "job_completion_certificate",
+  "reference": "MTC-2026-JCR-INT-3013",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Fire Protection Specialist",
+  "project": "Katara Metro Station",
+  "date": "January 24, 2026",
+  "work_description": "FM200 ROOM INTEGRITY TEST (1 QCDD)",
+  "unit": "LUMPSUM",
+  "qty": 1,
+  "completion": "100% COMPLETED",
+  "lpo_ref": "OMS-2026-PO-0611",
+  "invoice_ref": "5813",
+  "amount": 1000.0
+}

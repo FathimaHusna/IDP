@@ -1,0 +1,28 @@
+{
+  "doc_id": "po_86",
+  "doc_type": "purchase_order",
+  "po_number": "OMS-2026-PO-0684",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Al Mirza Trading & Contracting WLL",
+  "project": "Najma Office Fitout",
+  "date": "January 29, 2026",
+  "currency": "QAR",
+  "payment_terms": "40% advance 55% progress 5% retention",
+  "items": [
+    {
+      "description": "FM 200 integrity testing (1-QCDD)",
+      "qty": 1,
+      "unit": "Nos",
+      "unit_price": 500.0,
+      "amount": 500.0
+    }
+  ],
+  "totals": {
+    "subtotal": 500.0,
+    "tax": 0.0,
+    "total": 500.0
+  },
+  "references": {
+    "quote_ref": "3286"
+  }
+}

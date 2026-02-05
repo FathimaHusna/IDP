@@ -1,0 +1,38 @@
+{
+  "doc_id": "inv_27",
+  "doc_type": "invoice",
+  "invoice_number": "5827",
+  "invoice_type": "TAX INVOICE",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Qasr Al Abwab Trading & Contracting WLL",
+  "project": "Doha Showroom Upgrade",
+  "date": "January 13, 2026",
+  "due_date": "January 13, 2026",
+  "currency": "QAR",
+  "payment_terms": "40% advance 55% progress 5% retention",
+  "items": [
+    {
+      "description": "Supply & installation of non-fire rated wood door with HW set",
+      "qty": 2,
+      "unit": "Lot",
+      "unit_price": 500.0,
+      "amount": 1000.0
+    }
+  ],
+  "lpo_ref": "OMS-2026-PO-0625",
+  "totals": {
+    "subtotal": 1000.0,
+    "tax": 0.0,
+    "discount": 0.0,
+    "advance_received": 400.0,
+    "retention": 50.0,
+    "total": 1000.0,
+    "amount_due": 550.0
+  },
+  "bank": {
+    "iban": "QA21 MAFR 0000 0000 0011 1040 9700 1",
+    "swift": "MAFRQAQA",
+    "bank": "ALRAYAN",
+    "branch": "SALWA ROAD BRANCH"
+  }
+}

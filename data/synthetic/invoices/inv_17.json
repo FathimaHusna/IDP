@@ -1,0 +1,38 @@
+{
+  "doc_id": "inv_17",
+  "doc_type": "invoice",
+  "invoice_number": "5817",
+  "invoice_type": "TAX INVOICE",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Fire Protection Specialist",
+  "project": "Najma Office Fitout",
+  "date": "24-JAN-2026",
+  "due_date": "January 24, 2026",
+  "currency": "QAR",
+  "payment_terms": "40% advance 60% upon delivery",
+  "items": [
+    {
+      "description": "Supply & installation of non-fire rated wood door with HW set",
+      "qty": 1,
+      "unit": "Lot",
+      "unit_price": 1000.0,
+      "amount": 1000.0
+    }
+  ],
+  "lpo_ref": "OMS-2026-PO-0615",
+  "totals": {
+    "subtotal": 1000.0,
+    "tax": 0.0,
+    "discount": 0.0,
+    "advance_received": 400.0,
+    "retention": 0.0,
+    "total": 1000.0,
+    "amount_due": 600.0
+  },
+  "bank": {
+    "iban": "QA21 MAFR 0000 0000 0011 1040 9700 1",
+    "swift": "MAFRQAQA",
+    "bank": "ALRAYAN",
+    "branch": "SALWA ROAD BRANCH"
+  }
+}

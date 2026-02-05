@@ -2,8 +2,13 @@ streamlit
 pandas
 numpy
 plotly
+pypdf
+requests
 pytesseract
 opencv-python
 pillow
 pdf2image
 spacy
+pyyaml
+reportlab
+pydantic

@@ -1,0 +1,38 @@
+{
+  "doc_id": "inv_7",
+  "doc_type": "invoice",
+  "invoice_number": "5807",
+  "invoice_type": "TAX INVOICE",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Al Mirza Trading & Contracting WLL",
+  "project": "Najma Office Fitout",
+  "date": "January 31, 2026",
+  "due_date": "27-JAN-2026",
+  "currency": "QAR",
+  "payment_terms": "40% advance 55% progress 5% retention",
+  "items": [
+    {
+      "description": "Supply & installation of non-fire rated wood door with HW set",
+      "qty": 1,
+      "unit": "Lot",
+      "unit_price": 500.0,
+      "amount": 500.0
+    }
+  ],
+  "lpo_ref": "OMS-2026-PO-0605",
+  "totals": {
+    "subtotal": 500.0,
+    "tax": 25.0,
+    "discount": 0.0,
+    "advance_received": 210.0,
+    "retention": 26.25,
+    "total": 525.0,
+    "amount_due": 288.75
+  },
+  "bank": {
+    "iban": "QA21 MAFR 0000 0000 0011 1040 9700 1",
+    "swift": "MAFRQAQA",
+    "bank": "ALRAYAN",
+    "branch": "SALWA ROAD BRANCH"
+  }
+}

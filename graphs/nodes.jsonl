@@ -1,0 +1,8 @@
+{"id": "CHAIN:OMS-2026-PO-0615", "label": "Chain", "status": "matched_3_way", "confidence": 0.9}
+{"id": "VENDOR:fire protection specialist", "label": "Vendor", "name": "fire protection specialist"}
+{"id": "PO:OMS-2026-PO-0615", "label": "PO", "po_number": "OMS-2026-PO-0615", "total": 1000.0}
+{"id": "INV:5817", "label": "Invoice", "invoice_number": "5817"}
+{"id": "RCP:MTC-2026-JCR-INT-3017", "label": "Receipt", "reference": "MTC-2026-JCR-INT-3017"}
+{"id": "DOC:a19c1664a8c9e07b", "label": "Document", "source": "po_17.pdf"}
+{"id": "DOC:3f584868897393b6", "label": "Document", "source": "inv_17.pdf"}
+{"id": "DOC:906efdbc9d987750", "label": "Document", "source": "rcp_17.pdf"}

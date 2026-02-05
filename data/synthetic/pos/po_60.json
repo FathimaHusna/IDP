@@ -1,0 +1,28 @@
+{
+  "doc_id": "po_60",
+  "doc_type": "purchase_order",
+  "po_number": "OMS-2026-PO-0658",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Manycon Trading & Contracting WLL",
+  "project": "Najma Office Fitout",
+  "date": "02-FEB-2026",
+  "currency": "QAR",
+  "payment_terms": "100% upon completion",
+  "items": [
+    {
+      "description": "FM 200 integrity testing (1-QCDD)",
+      "qty": 2,
+      "unit": "Lot",
+      "unit_price": 14700.0,
+      "amount": 29400.0
+    }
+  ],
+  "totals": {
+    "subtotal": 29400.0,
+    "tax": 0.0,
+    "total": 29400.0
+  },
+  "references": {
+    "quote_ref": "3260"
+  }
+}

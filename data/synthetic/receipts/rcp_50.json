@@ -1,0 +1,16 @@
+{
+  "doc_id": "rcp_50",
+  "doc_type": "job_completion_certificate",
+  "reference": "MTC-2026-JCR-INT-3050",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Al Mirza Trading & Contracting WLL",
+  "project": "Warehouse Refurbishment – Street 41 (Al Asmakh)",
+  "date": "January 22, 2026",
+  "work_description": "FM200 ROOM INTEGRITY TEST (1 QCDD)",
+  "unit": "LUMPSUM",
+  "qty": 1,
+  "completion": "100% COMPLETED",
+  "lpo_ref": "OMS-2026-PO-0648",
+  "invoice_ref": "5850",
+  "amount": 1050.0
+}

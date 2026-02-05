@@ -1,0 +1,25 @@
+ocr:
+  min_quality_auto_accept: 0.75
+  min_quality_process: 0.30
+
+routing:
+  auto_accept_min_confidence:
+    default: 0.90
+    receipt: 0.90
+  review_min_confidence:
+    default: 0.70
+    receipt: 0.60
+
+anomalies:
+  force_review:
+    - totals_mismatch
+    - missing_total
+    - missing_invoice_number
+
+vendors:
+  allow: []
+  deny: []
+
+limits:
+  max_doc_size_mb: 20
+  max_pages_ocr: 3

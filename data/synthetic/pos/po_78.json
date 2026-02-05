@@ -1,0 +1,28 @@
+{
+  "doc_id": "po_78",
+  "doc_type": "purchase_order",
+  "po_number": "OMS-2026-PO-0676",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Manycon Trading & Contracting WLL",
+  "project": "Katara Metro Station",
+  "date": "January 09, 2026",
+  "currency": "QAR",
+  "payment_terms": "40% advance 60% upon delivery",
+  "items": [
+    {
+      "description": "Supply & installation of non-fire rated wood door with HW set",
+      "qty": 1,
+      "unit": "Nos",
+      "unit_price": 1000.0,
+      "amount": 1000.0
+    }
+  ],
+  "totals": {
+    "subtotal": 1000.0,
+    "tax": 50.0,
+    "total": 1050.0
+  },
+  "references": {
+    "quote_ref": "3278"
+  }
+}

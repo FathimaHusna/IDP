@@ -1,0 +1,38 @@
+{
+  "doc_id": "inv_50",
+  "doc_type": "invoice",
+  "invoice_number": "5850",
+  "invoice_type": "PROFORMA INVOICE",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Al Mirza Trading & Contracting WLL",
+  "project": "Warehouse Refurbishment – Street 41 (Al Asmakh)",
+  "date": "14-JAN-2026",
+  "due_date": "January 14, 2026",
+  "currency": "QAR",
+  "payment_terms": "100% upon completion",
+  "items": [
+    {
+      "description": "Supply & installation of non-fire rated wood door with HW set",
+      "qty": 1,
+      "unit": "Lot",
+      "unit_price": 1000.0,
+      "amount": 1000.0
+    }
+  ],
+  "lpo_ref": "OMS-2026-PO-0648",
+  "totals": {
+    "subtotal": 1000.0,
+    "tax": 50.0,
+    "discount": 0.0,
+    "advance_received": 0.0,
+    "retention": 0.0,
+    "total": 1050.0,
+    "amount_due": 1050.0
+  },
+  "bank": {
+    "iban": "QA21 MAFR 0000 0000 0011 1040 9700 1",
+    "swift": "MAFRQAQA",
+    "bank": "ALRAYAN",
+    "branch": "SALWA ROAD BRANCH"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "doc_id": "rcp_12",
+  "doc_type": "job_completion_certificate",
+  "reference": "MTC-2026-JCR-INT-3012",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Al Mirza Trading & Contracting WLL",
+  "project": "Katara Metro Station",
+  "date": "January 16, 2026",
+  "work_description": "FM200 ROOM INTEGRITY TEST (1 QCDD)",
+  "unit": "LUMPSUM",
+  "qty": 1,
+  "completion": "100% COMPLETED",
+  "lpo_ref": "OMS-2026-PO-0610",
+  "invoice_ref": "5812",
+  "amount": 7000.0
+}

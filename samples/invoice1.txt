@@ -1,0 +1,14 @@
+Invoice
+Vendor: Contoso Ltd
+Invoice Number: INV-1001
+Invoice Date: 2025-01-15
+Currency: GBP
+
+Item | Qty | Unit Price | Line Total
+Consulting Services | 2 | 500.00 | 1000.00
+Software License | 1 | 200.00 | 200.00
+
+Subtotal: £1200.00
+Tax: £240.00
+Total: £1440.00
+

@@ -1,0 +1,38 @@
+{
+  "doc_id": "inv_79",
+  "doc_type": "invoice",
+  "invoice_number": "5879",
+  "invoice_type": "TAX INVOICE",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Fire Protection Specialist",
+  "project": "Warehouse Refurbishment – Street 41 (Al Asmakh)",
+  "date": "February 04, 2026",
+  "due_date": "February 08, 2026",
+  "currency": "QAR",
+  "payment_terms": "40% advance 60% upon delivery",
+  "items": [
+    {
+      "description": "Supply & installation of fire rated wood door with HW set",
+      "qty": 1,
+      "unit": "Nos",
+      "unit_price": 500.0,
+      "amount": 500.0
+    }
+  ],
+  "lpo_ref": "OMS-2026-PO-0677",
+  "totals": {
+    "subtotal": 500.0,
+    "tax": 25.0,
+    "discount": 0.0,
+    "advance_received": 210.0,
+    "retention": 0.0,
+    "total": 525.0,
+    "amount_due": 315.0
+  },
+  "bank": {
+    "iban": "QA21 MAFR 0000 0000 0011 1040 9700 1",
+    "swift": "MAFRQAQA",
+    "bank": "ALRAYAN",
+    "branch": "SALWA ROAD BRANCH"
+  }
+}

@@ -1,0 +1,107 @@
+# Dataset registry for local and cloud-ready references
+# Each entry: name, version, url, license, local_path, pii, splits
+
+public:
+  - name: docile
+    version: v1
+    url: https://github.com/rossumai/docile
+    license: CC-BY-NC-SA-4.0
+    local_path: data/raw/public/docile
+    pii: false
+    splits: {train: null, val: null, test: null}
+  - name: funsd
+    version: v1
+    url: https://guillaumejaume.github.io/FUNSD/
+    license: CC-BY-4.0
+    local_path: data/raw/public/funsd
+    pii: false
+    splits: {train: null, val: null, test: null}
+  - name: xfund
+    version: v1
+    url: https://github.com/doc-analysis/XFUND
+    license: Research-only
+    local_path: data/raw/public/xfund
+    pii: false
+    splits: {train: null, val: null, test: null}
+  - name: cuad
+    version: v1
+    url: https://www.atticusprojectai.org/cuad
+    license: Research-only
+    local_path: data/raw/public/cuad
+    pii: true
+    splits: {train: null, val: null, test: null}
+  - name: rvl_cdip
+    version: v1
+    url: https://www.cs.cmu.edu/~aharley/rvl-cdip/
+    license: Research-only
+    local_path: data/raw/public/rvl_cdip
+    pii: possibly
+    splits: {train: null, val: null, test: null}
+  - name: doclaynet
+    version: v1
+    url: https://github.com/DS4SD/DocLayNet
+    license: Apache-2.0
+    local_path: data/raw/public/doclaynet
+    pii: false
+    splits: {train: null, val: null, test: null}
+
+internal:
+  - name: internal_pos
+    version: v0
+    url: null
+    license: proprietary
+    local_path: data/raw/internal/pos
+    pii: true
+    splits: {train: vendor_holdout, val: template_holdout, test: vendor_holdout}
+  - name: internal_invoices
+    version: v0
+    url: null
+    license: proprietary
+    local_path: data/raw/internal/invoices
+    pii: true
+    splits: {train: vendor_holdout, val: template_holdout, test: vendor_holdout}
+  - name: internal_receipts
+    version: v0
+    url: null
+    license: proprietary
+    local_path: data/raw/internal/receipts
+    pii: true
+    splits: {train: vendor_holdout, val: template_holdout, test: vendor_holdout}
+  - name: vendor_master
+    version: v0
+    url: null
+    license: proprietary
+    local_path: data/raw/internal/vendor_master.csv
+    pii: false
+    splits: {default: all}
+
+synthetic:
+  - name: synth_pos
+    version: v0
+    url: null
+    license: generated
+    local_path: data/synthetic/pos
+    pii: false
+    splits: {train: default, val: default, test: default}
+  - name: synth_invoices
+    version: v0
+    url: null
+    license: generated
+    local_path: data/synthetic/invoices
+    pii: false
+    splits: {train: default, val: default, test: default}
+  - name: synth_receipts
+    version: v0
+    url: null
+    license: generated
+    local_path: data/synthetic/receipts
+    pii: false
+    splits: {train: default, val: default, test: default}
+  - name: synth_chains
+    version: v0
+    url: null
+    license: generated
+    local_path: data/synthetic/chains
+    pii: false
+    splits: {train: default, val: default, test: default}
+

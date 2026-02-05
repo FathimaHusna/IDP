@@ -1,0 +1,38 @@
+{
+  "doc_id": "inv_86",
+  "doc_type": "invoice",
+  "invoice_number": "5886",
+  "invoice_type": "فاتورة ضريبية",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Al Mirza Trading & Contracting WLL",
+  "project": "Najma Office Fitout",
+  "date": "February 02, 2026",
+  "due_date": "02-FEB-2026",
+  "currency": "QAR",
+  "payment_terms": "40% advance 55% progress 5% retention",
+  "items": [
+    {
+      "description": "FM 200 integrity testing (1-QCDD)",
+      "qty": 1,
+      "unit": "Nos",
+      "unit_price": 500.0,
+      "amount": 500.0
+    }
+  ],
+  "lpo_ref": "OMS-2026-PO-0684",
+  "totals": {
+    "subtotal": 500.0,
+    "tax": 0.0,
+    "discount": 0.0,
+    "advance_received": 200.0,
+    "retention": 25.0,
+    "total": 500.0,
+    "amount_due": 275.0
+  },
+  "bank": {
+    "iban": "QA21 MAFR 0000 0000 0011 1040 9700 1",
+    "swift": "MAFRQAQA",
+    "bank": "ALRAYAN",
+    "branch": "SALWA ROAD BRANCH"
+  }
+}

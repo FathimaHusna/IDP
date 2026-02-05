@@ -1,0 +1,28 @@
+{
+  "doc_id": "po_58",
+  "doc_type": "purchase_order",
+  "po_number": "OMS-2026-PO-0656",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Manycon Trading & Contracting WLL",
+  "project": "Katara Metro Station",
+  "date": "January 25, 2026",
+  "currency": "QAR",
+  "payment_terms": "40% advance 55% progress 5% retention",
+  "items": [
+    {
+      "description": "Glass door with wooden frame (lumpsum)",
+      "qty": 2,
+      "unit": "Nos",
+      "unit_price": 14700.0,
+      "amount": 29400.0
+    }
+  ],
+  "totals": {
+    "subtotal": 29400.0,
+    "tax": 1470.0,
+    "total": 30870.0
+  },
+  "references": {
+    "quote_ref": "3258"
+  }
+}

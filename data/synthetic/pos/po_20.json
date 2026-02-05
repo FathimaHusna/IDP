@@ -1,0 +1,28 @@
+{
+  "doc_id": "po_20",
+  "doc_type": "purchase_order",
+  "po_number": "OMS-2026-PO-0618",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Manycon Trading & Contracting WLL",
+  "project": "Najma Office Fitout",
+  "date": "February 01, 2026",
+  "currency": "QAR",
+  "payment_terms": "40% advance 60% upon delivery",
+  "items": [
+    {
+      "description": "Supply & installation of non-fire rated wood door with HW set",
+      "qty": 1,
+      "unit": "Nos",
+      "unit_price": 3500.0,
+      "amount": 3500.0
+    }
+  ],
+  "totals": {
+    "subtotal": 3500.0,
+    "tax": 0.0,
+    "total": 3500.0
+  },
+  "references": {
+    "quote_ref": "3220"
+  }
+}

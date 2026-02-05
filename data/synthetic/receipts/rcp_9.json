@@ -1,0 +1,16 @@
+{
+  "doc_id": "rcp_9",
+  "doc_type": "job_completion_certificate",
+  "reference": "MTC-2026-JCR-INT-3009",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Manycon Trading & Contracting WLL",
+  "project": "Doha Showroom Upgrade",
+  "date": "19-JAN-2026",
+  "work_description": "FM200 ROOM INTEGRITY TEST (1 QCDD)",
+  "unit": "LUMPSUM",
+  "qty": 1,
+  "completion": "100% COMPLETED",
+  "lpo_ref": "OMS-2026-PO-0607",
+  "invoice_ref": "5809",
+  "amount": 3500.0
+}

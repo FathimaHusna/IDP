@@ -1,0 +1,900 @@
+{"subject": "5800", "predicate": "references_po", "object": "OMS-2026-PO-0598", "docId": "inv_0"}
+{"subject": "MTC-2026-JCR-INT-3000", "predicate": "confirms_invoice", "object": "5800", "docId": "rcp_0"}
+{"subject": "MTC-2026-JCR-INT-3000", "predicate": "references_po", "object": "OMS-2026-PO-0598", "docId": "rcp_0"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5800", "docId": "inv_0"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0598", "docId": "po_0"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3000", "docId": "rcp_0"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "5800", "docId": "inv_0"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "OMS-2026-PO-0598", "docId": "po_0"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3000", "docId": "rcp_0"}
+{"subject": "5801", "predicate": "references_po", "object": "OMS-2026-PO-0599", "docId": "inv_1"}
+{"subject": "MTC-2026-JCR-INT-3001", "predicate": "confirms_invoice", "object": "5801", "docId": "rcp_1"}
+{"subject": "MTC-2026-JCR-INT-3001", "predicate": "references_po", "object": "OMS-2026-PO-0599", "docId": "rcp_1"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5801", "docId": "inv_1"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0599", "docId": "po_1"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3001", "docId": "rcp_1"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5801", "docId": "inv_1"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0599", "docId": "po_1"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3001", "docId": "rcp_1"}
+{"subject": "5802", "predicate": "references_po", "object": "OMS-2026-PO-0600", "docId": "inv_2"}
+{"subject": "MTC-2026-JCR-INT-3002", "predicate": "confirms_invoice", "object": "5802", "docId": "rcp_2"}
+{"subject": "MTC-2026-JCR-INT-3002", "predicate": "references_po", "object": "OMS-2026-PO-0600", "docId": "rcp_2"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5802", "docId": "inv_2"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0600", "docId": "po_2"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3002", "docId": "rcp_2"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "5802", "docId": "inv_2"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "OMS-2026-PO-0600", "docId": "po_2"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3002", "docId": "rcp_2"}
+{"subject": "5803", "predicate": "references_po", "object": "OMS-2026-PO-0601", "docId": "inv_3"}
+{"subject": "MTC-2026-JCR-INT-3003", "predicate": "confirms_invoice", "object": "5803", "docId": "rcp_3"}
+{"subject": "MTC-2026-JCR-INT-3003", "predicate": "references_po", "object": "OMS-2026-PO-0601", "docId": "rcp_3"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "5803", "docId": "inv_3"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0601", "docId": "po_3"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3003", "docId": "rcp_3"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "5803", "docId": "inv_3"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "OMS-2026-PO-0601", "docId": "po_3"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3003", "docId": "rcp_3"}
+{"subject": "5804", "predicate": "references_po", "object": "OMS-2026-PO-0602", "docId": "inv_4"}
+{"subject": "MTC-2026-JCR-INT-3004", "predicate": "confirms_invoice", "object": "5804", "docId": "rcp_4"}
+{"subject": "MTC-2026-JCR-INT-3004", "predicate": "references_po", "object": "OMS-2026-PO-0602", "docId": "rcp_4"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "5804", "docId": "inv_4"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0602", "docId": "po_4"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3004", "docId": "rcp_4"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5804", "docId": "inv_4"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0602", "docId": "po_4"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3004", "docId": "rcp_4"}
+{"subject": "5805", "predicate": "references_po", "object": "OMS-2026-PO-0603", "docId": "inv_5"}
+{"subject": "MTC-2026-JCR-INT-3005", "predicate": "confirms_invoice", "object": "5805", "docId": "rcp_5"}
+{"subject": "MTC-2026-JCR-INT-3005", "predicate": "references_po", "object": "OMS-2026-PO-0603", "docId": "rcp_5"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5805", "docId": "inv_5"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0603", "docId": "po_5"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3005", "docId": "rcp_5"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5805", "docId": "inv_5"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0603", "docId": "po_5"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3005", "docId": "rcp_5"}
+{"subject": "5806", "predicate": "references_po", "object": "OMS-2026-PO-0604", "docId": "inv_6"}
+{"subject": "MTC-2026-JCR-INT-3006", "predicate": "confirms_invoice", "object": "5806", "docId": "rcp_6"}
+{"subject": "MTC-2026-JCR-INT-3006", "predicate": "references_po", "object": "OMS-2026-PO-0604", "docId": "rcp_6"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5806", "docId": "inv_6"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0604", "docId": "po_6"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3006", "docId": "rcp_6"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "5806", "docId": "inv_6"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "OMS-2026-PO-0604", "docId": "po_6"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3006", "docId": "rcp_6"}
+{"subject": "5807", "predicate": "references_po", "object": "OMS-2026-PO-0605", "docId": "inv_7"}
+{"subject": "MTC-2026-JCR-INT-3007", "predicate": "confirms_invoice", "object": "5807", "docId": "rcp_7"}
+{"subject": "MTC-2026-JCR-INT-3007", "predicate": "references_po", "object": "OMS-2026-PO-0605", "docId": "rcp_7"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5807", "docId": "inv_7"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0605", "docId": "po_7"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3007", "docId": "rcp_7"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "5807", "docId": "inv_7"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "OMS-2026-PO-0605", "docId": "po_7"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3007", "docId": "rcp_7"}
+{"subject": "5808", "predicate": "references_po", "object": "OMS-2026-PO-0606", "docId": "inv_8"}
+{"subject": "MTC-2026-JCR-INT-3008", "predicate": "confirms_invoice", "object": "5808", "docId": "rcp_8"}
+{"subject": "MTC-2026-JCR-INT-3008", "predicate": "references_po", "object": "OMS-2026-PO-0606", "docId": "rcp_8"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5808", "docId": "inv_8"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0606", "docId": "po_8"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3008", "docId": "rcp_8"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5808", "docId": "inv_8"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0606", "docId": "po_8"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3008", "docId": "rcp_8"}
+{"subject": "5809", "predicate": "references_po", "object": "OMS-2026-PO-0607", "docId": "inv_9"}
+{"subject": "MTC-2026-JCR-INT-3009", "predicate": "confirms_invoice", "object": "5809", "docId": "rcp_9"}
+{"subject": "MTC-2026-JCR-INT-3009", "predicate": "references_po", "object": "OMS-2026-PO-0607", "docId": "rcp_9"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5809", "docId": "inv_9"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0607", "docId": "po_9"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3009", "docId": "rcp_9"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "5809", "docId": "inv_9"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "OMS-2026-PO-0607", "docId": "po_9"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3009", "docId": "rcp_9"}
+{"subject": "5810", "predicate": "references_po", "object": "OMS-2026-PO-0608", "docId": "inv_10"}
+{"subject": "MTC-2026-JCR-INT-3010", "predicate": "confirms_invoice", "object": "5810", "docId": "rcp_10"}
+{"subject": "MTC-2026-JCR-INT-3010", "predicate": "references_po", "object": "OMS-2026-PO-0608", "docId": "rcp_10"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5810", "docId": "inv_10"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0608", "docId": "po_10"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3010", "docId": "rcp_10"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "5810", "docId": "inv_10"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "OMS-2026-PO-0608", "docId": "po_10"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3010", "docId": "rcp_10"}
+{"subject": "5811", "predicate": "references_po", "object": "OMS-2026-PO-0609", "docId": "inv_11"}
+{"subject": "MTC-2026-JCR-INT-3011", "predicate": "confirms_invoice", "object": "5811", "docId": "rcp_11"}
+{"subject": "MTC-2026-JCR-INT-3011", "predicate": "references_po", "object": "OMS-2026-PO-0609", "docId": "rcp_11"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5811", "docId": "inv_11"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0609", "docId": "po_11"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3011", "docId": "rcp_11"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "5811", "docId": "inv_11"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "OMS-2026-PO-0609", "docId": "po_11"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3011", "docId": "rcp_11"}
+{"subject": "5812", "predicate": "references_po", "object": "OMS-2026-PO-0610", "docId": "inv_12"}
+{"subject": "MTC-2026-JCR-INT-3012", "predicate": "confirms_invoice", "object": "5812", "docId": "rcp_12"}
+{"subject": "MTC-2026-JCR-INT-3012", "predicate": "references_po", "object": "OMS-2026-PO-0610", "docId": "rcp_12"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5812", "docId": "inv_12"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0610", "docId": "po_12"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3012", "docId": "rcp_12"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5812", "docId": "inv_12"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0610", "docId": "po_12"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3012", "docId": "rcp_12"}
+{"subject": "5813", "predicate": "references_po", "object": "OMS-2026-PO-0611", "docId": "inv_13"}
+{"subject": "MTC-2026-JCR-INT-3013", "predicate": "confirms_invoice", "object": "5813", "docId": "rcp_13"}
+{"subject": "MTC-2026-JCR-INT-3013", "predicate": "references_po", "object": "OMS-2026-PO-0611", "docId": "rcp_13"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "5813", "docId": "inv_13"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0611", "docId": "po_13"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3013", "docId": "rcp_13"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5813", "docId": "inv_13"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0611", "docId": "po_13"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3013", "docId": "rcp_13"}
+{"subject": "5814", "predicate": "references_po", "object": "OMS-2026-PO-0612", "docId": "inv_14"}
+{"subject": "MTC-2026-JCR-INT-3014", "predicate": "confirms_invoice", "object": "5814", "docId": "rcp_14"}
+{"subject": "MTC-2026-JCR-INT-3014", "predicate": "references_po", "object": "OMS-2026-PO-0612", "docId": "rcp_14"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5814", "docId": "inv_14"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0612", "docId": "po_14"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3014", "docId": "rcp_14"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5814", "docId": "inv_14"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0612", "docId": "po_14"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3014", "docId": "rcp_14"}
+{"subject": "5815", "predicate": "references_po", "object": "OMS-2026-PO-0613", "docId": "inv_15"}
+{"subject": "MTC-2026-JCR-INT-3015", "predicate": "confirms_invoice", "object": "5815", "docId": "rcp_15"}
+{"subject": "MTC-2026-JCR-INT-3015", "predicate": "references_po", "object": "OMS-2026-PO-0613", "docId": "rcp_15"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5815", "docId": "inv_15"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0613", "docId": "po_15"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3015", "docId": "rcp_15"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "5815", "docId": "inv_15"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "OMS-2026-PO-0613", "docId": "po_15"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3015", "docId": "rcp_15"}
+{"subject": "5816", "predicate": "references_po", "object": "OMS-2026-PO-0614", "docId": "inv_16"}
+{"subject": "MTC-2026-JCR-INT-3016", "predicate": "confirms_invoice", "object": "5816", "docId": "rcp_16"}
+{"subject": "MTC-2026-JCR-INT-3016", "predicate": "references_po", "object": "OMS-2026-PO-0614", "docId": "rcp_16"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5816", "docId": "inv_16"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0614", "docId": "po_16"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3016", "docId": "rcp_16"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "5816", "docId": "inv_16"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "OMS-2026-PO-0614", "docId": "po_16"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3016", "docId": "rcp_16"}
+{"subject": "5817", "predicate": "references_po", "object": "OMS-2026-PO-0615", "docId": "inv_17"}
+{"subject": "MTC-2026-JCR-INT-3017", "predicate": "confirms_invoice", "object": "5817", "docId": "rcp_17"}
+{"subject": "MTC-2026-JCR-INT-3017", "predicate": "references_po", "object": "OMS-2026-PO-0615", "docId": "rcp_17"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "5817", "docId": "inv_17"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0615", "docId": "po_17"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3017", "docId": "rcp_17"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "5817", "docId": "inv_17"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "OMS-2026-PO-0615", "docId": "po_17"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3017", "docId": "rcp_17"}
+{"subject": "5818", "predicate": "references_po", "object": "OMS-2026-PO-0616", "docId": "inv_18"}
+{"subject": "MTC-2026-JCR-INT-3018", "predicate": "confirms_invoice", "object": "5818", "docId": "rcp_18"}
+{"subject": "MTC-2026-JCR-INT-3018", "predicate": "references_po", "object": "OMS-2026-PO-0616", "docId": "rcp_18"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5818", "docId": "inv_18"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0616", "docId": "po_18"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3018", "docId": "rcp_18"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "5818", "docId": "inv_18"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "OMS-2026-PO-0616", "docId": "po_18"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3018", "docId": "rcp_18"}
+{"subject": "5819", "predicate": "references_po", "object": "OMS-2026-PO-0617", "docId": "inv_19"}
+{"subject": "MTC-2026-JCR-INT-3019", "predicate": "confirms_invoice", "object": "5819", "docId": "rcp_19"}
+{"subject": "MTC-2026-JCR-INT-3019", "predicate": "references_po", "object": "OMS-2026-PO-0617", "docId": "rcp_19"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5819", "docId": "inv_19"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0617", "docId": "po_19"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3019", "docId": "rcp_19"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "5819", "docId": "inv_19"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "OMS-2026-PO-0617", "docId": "po_19"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3019", "docId": "rcp_19"}
+{"subject": "5820", "predicate": "references_po", "object": "OMS-2026-PO-0618", "docId": "inv_20"}
+{"subject": "MTC-2026-JCR-INT-3020", "predicate": "confirms_invoice", "object": "5820", "docId": "rcp_20"}
+{"subject": "MTC-2026-JCR-INT-3020", "predicate": "references_po", "object": "OMS-2026-PO-0618", "docId": "rcp_20"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5820", "docId": "inv_20"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0618", "docId": "po_20"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3020", "docId": "rcp_20"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "5820", "docId": "inv_20"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "OMS-2026-PO-0618", "docId": "po_20"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3020", "docId": "rcp_20"}
+{"subject": "5821", "predicate": "references_po", "object": "OMS-2026-PO-0619", "docId": "inv_21"}
+{"subject": "MTC-2026-JCR-INT-3021", "predicate": "confirms_invoice", "object": "5821", "docId": "rcp_21"}
+{"subject": "MTC-2026-JCR-INT-3021", "predicate": "references_po", "object": "OMS-2026-PO-0619", "docId": "rcp_21"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5821", "docId": "inv_21"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0619", "docId": "po_21"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3021", "docId": "rcp_21"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5821", "docId": "inv_21"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0619", "docId": "po_21"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3021", "docId": "rcp_21"}
+{"subject": "5822", "predicate": "references_po", "object": "OMS-2026-PO-0620", "docId": "inv_22"}
+{"subject": "MTC-2026-JCR-INT-3022", "predicate": "confirms_invoice", "object": "5822", "docId": "rcp_22"}
+{"subject": "MTC-2026-JCR-INT-3022", "predicate": "references_po", "object": "OMS-2026-PO-0620", "docId": "rcp_22"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5822", "docId": "inv_22"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0620", "docId": "po_22"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3022", "docId": "rcp_22"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "5822", "docId": "inv_22"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "OMS-2026-PO-0620", "docId": "po_22"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3022", "docId": "rcp_22"}
+{"subject": "5823", "predicate": "references_po", "object": "OMS-2026-PO-0621", "docId": "inv_23"}
+{"subject": "MTC-2026-JCR-INT-3023", "predicate": "confirms_invoice", "object": "5823", "docId": "rcp_23"}
+{"subject": "MTC-2026-JCR-INT-3023", "predicate": "references_po", "object": "OMS-2026-PO-0621", "docId": "rcp_23"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5823", "docId": "inv_23"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0621", "docId": "po_23"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3023", "docId": "rcp_23"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "5823", "docId": "inv_23"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "OMS-2026-PO-0621", "docId": "po_23"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3023", "docId": "rcp_23"}
+{"subject": "5824", "predicate": "references_po", "object": "OMS-2026-PO-0622", "docId": "inv_24"}
+{"subject": "MTC-2026-JCR-INT-3024", "predicate": "confirms_invoice", "object": "5824", "docId": "rcp_24"}
+{"subject": "MTC-2026-JCR-INT-3024", "predicate": "references_po", "object": "OMS-2026-PO-0622", "docId": "rcp_24"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5824", "docId": "inv_24"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0622", "docId": "po_24"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3024", "docId": "rcp_24"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5824", "docId": "inv_24"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0622", "docId": "po_24"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3024", "docId": "rcp_24"}
+{"subject": "5825", "predicate": "references_po", "object": "OMS-2026-PO-0623", "docId": "inv_25"}
+{"subject": "MTC-2026-JCR-INT-3025", "predicate": "confirms_invoice", "object": "5825", "docId": "rcp_25"}
+{"subject": "MTC-2026-JCR-INT-3025", "predicate": "references_po", "object": "OMS-2026-PO-0623", "docId": "rcp_25"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5825", "docId": "inv_25"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0623", "docId": "po_25"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3025", "docId": "rcp_25"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "5825", "docId": "inv_25"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "OMS-2026-PO-0623", "docId": "po_25"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3025", "docId": "rcp_25"}
+{"subject": "5826", "predicate": "references_po", "object": "OMS-2026-PO-0624", "docId": "inv_26"}
+{"subject": "MTC-2026-JCR-INT-3026", "predicate": "confirms_invoice", "object": "5826", "docId": "rcp_26"}
+{"subject": "MTC-2026-JCR-INT-3026", "predicate": "references_po", "object": "OMS-2026-PO-0624", "docId": "rcp_26"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5826", "docId": "inv_26"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0624", "docId": "po_26"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3026", "docId": "rcp_26"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5826", "docId": "inv_26"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0624", "docId": "po_26"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3026", "docId": "rcp_26"}
+{"subject": "5827", "predicate": "references_po", "object": "OMS-2026-PO-0625", "docId": "inv_27"}
+{"subject": "MTC-2026-JCR-INT-3027", "predicate": "confirms_invoice", "object": "5827", "docId": "rcp_27"}
+{"subject": "MTC-2026-JCR-INT-3027", "predicate": "references_po", "object": "OMS-2026-PO-0625", "docId": "rcp_27"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5827", "docId": "inv_27"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0625", "docId": "po_27"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3027", "docId": "rcp_27"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "5827", "docId": "inv_27"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "OMS-2026-PO-0625", "docId": "po_27"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3027", "docId": "rcp_27"}
+{"subject": "5828", "predicate": "references_po", "object": "OMS-2026-PO-0626", "docId": "inv_28"}
+{"subject": "MTC-2026-JCR-INT-3028", "predicate": "confirms_invoice", "object": "5828", "docId": "rcp_28"}
+{"subject": "MTC-2026-JCR-INT-3028", "predicate": "references_po", "object": "OMS-2026-PO-0626", "docId": "rcp_28"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5828", "docId": "inv_28"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0626", "docId": "po_28"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3028", "docId": "rcp_28"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5828", "docId": "inv_28"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0626", "docId": "po_28"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3028", "docId": "rcp_28"}
+{"subject": "5829", "predicate": "references_po", "object": "OMS-2026-PO-0627", "docId": "inv_29"}
+{"subject": "MTC-2026-JCR-INT-3029", "predicate": "confirms_invoice", "object": "5829", "docId": "rcp_29"}
+{"subject": "MTC-2026-JCR-INT-3029", "predicate": "references_po", "object": "OMS-2026-PO-0627", "docId": "rcp_29"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "5829", "docId": "inv_29"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0627", "docId": "po_29"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3029", "docId": "rcp_29"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5829", "docId": "inv_29"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0627", "docId": "po_29"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3029", "docId": "rcp_29"}
+{"subject": "5830", "predicate": "references_po", "object": "OMS-2026-PO-0628", "docId": "inv_30"}
+{"subject": "MTC-2026-JCR-INT-3030", "predicate": "confirms_invoice", "object": "5830", "docId": "rcp_30"}
+{"subject": "MTC-2026-JCR-INT-3030", "predicate": "references_po", "object": "OMS-2026-PO-0628", "docId": "rcp_30"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "5830", "docId": "inv_30"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0628", "docId": "po_30"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3030", "docId": "rcp_30"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5830", "docId": "inv_30"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0628", "docId": "po_30"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3030", "docId": "rcp_30"}
+{"subject": "5831", "predicate": "references_po", "object": "OMS-2026-PO-0629", "docId": "inv_31"}
+{"subject": "MTC-2026-JCR-INT-3031", "predicate": "confirms_invoice", "object": "5831", "docId": "rcp_31"}
+{"subject": "MTC-2026-JCR-INT-3031", "predicate": "references_po", "object": "OMS-2026-PO-0629", "docId": "rcp_31"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "5831", "docId": "inv_31"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0629", "docId": "po_31"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3031", "docId": "rcp_31"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "5831", "docId": "inv_31"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "OMS-2026-PO-0629", "docId": "po_31"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3031", "docId": "rcp_31"}
+{"subject": "5832", "predicate": "references_po", "object": "OMS-2026-PO-0630", "docId": "inv_32"}
+{"subject": "MTC-2026-JCR-INT-3032", "predicate": "confirms_invoice", "object": "5832", "docId": "rcp_32"}
+{"subject": "MTC-2026-JCR-INT-3032", "predicate": "references_po", "object": "OMS-2026-PO-0630", "docId": "rcp_32"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5832", "docId": "inv_32"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0630", "docId": "po_32"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3032", "docId": "rcp_32"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "5832", "docId": "inv_32"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "OMS-2026-PO-0630", "docId": "po_32"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3032", "docId": "rcp_32"}
+{"subject": "5833", "predicate": "references_po", "object": "OMS-2026-PO-0631", "docId": "inv_33"}
+{"subject": "MTC-2026-JCR-INT-3033", "predicate": "confirms_invoice", "object": "5833", "docId": "rcp_33"}
+{"subject": "MTC-2026-JCR-INT-3033", "predicate": "references_po", "object": "OMS-2026-PO-0631", "docId": "rcp_33"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5833", "docId": "inv_33"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0631", "docId": "po_33"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3033", "docId": "rcp_33"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5833", "docId": "inv_33"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0631", "docId": "po_33"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3033", "docId": "rcp_33"}
+{"subject": "5834", "predicate": "references_po", "object": "OMS-2026-PO-0632", "docId": "inv_34"}
+{"subject": "MTC-2026-JCR-INT-3034", "predicate": "confirms_invoice", "object": "5834", "docId": "rcp_34"}
+{"subject": "MTC-2026-JCR-INT-3034", "predicate": "references_po", "object": "OMS-2026-PO-0632", "docId": "rcp_34"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "5834", "docId": "inv_34"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0632", "docId": "po_34"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3034", "docId": "rcp_34"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "5834", "docId": "inv_34"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "OMS-2026-PO-0632", "docId": "po_34"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3034", "docId": "rcp_34"}
+{"subject": "5835", "predicate": "references_po", "object": "OMS-2026-PO-0633", "docId": "inv_35"}
+{"subject": "MTC-2026-JCR-INT-3035", "predicate": "confirms_invoice", "object": "5835", "docId": "rcp_35"}
+{"subject": "MTC-2026-JCR-INT-3035", "predicate": "references_po", "object": "OMS-2026-PO-0633", "docId": "rcp_35"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "5835", "docId": "inv_35"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0633", "docId": "po_35"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3035", "docId": "rcp_35"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "5835", "docId": "inv_35"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "OMS-2026-PO-0633", "docId": "po_35"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3035", "docId": "rcp_35"}
+{"subject": "5836", "predicate": "references_po", "object": "OMS-2026-PO-0634", "docId": "inv_36"}
+{"subject": "MTC-2026-JCR-INT-3036", "predicate": "confirms_invoice", "object": "5836", "docId": "rcp_36"}
+{"subject": "MTC-2026-JCR-INT-3036", "predicate": "references_po", "object": "OMS-2026-PO-0634", "docId": "rcp_36"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "5836", "docId": "inv_36"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0634", "docId": "po_36"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3036", "docId": "rcp_36"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "5836", "docId": "inv_36"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "OMS-2026-PO-0634", "docId": "po_36"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3036", "docId": "rcp_36"}
+{"subject": "5837", "predicate": "references_po", "object": "OMS-2026-PO-0635", "docId": "inv_37"}
+{"subject": "MTC-2026-JCR-INT-3037", "predicate": "confirms_invoice", "object": "5837", "docId": "rcp_37"}
+{"subject": "MTC-2026-JCR-INT-3037", "predicate": "references_po", "object": "OMS-2026-PO-0635", "docId": "rcp_37"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "5837", "docId": "inv_37"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0635", "docId": "po_37"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3037", "docId": "rcp_37"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "5837", "docId": "inv_37"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "OMS-2026-PO-0635", "docId": "po_37"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3037", "docId": "rcp_37"}
+{"subject": "5838", "predicate": "references_po", "object": "OMS-2026-PO-0636", "docId": "inv_38"}
+{"subject": "MTC-2026-JCR-INT-3038", "predicate": "confirms_invoice", "object": "5838", "docId": "rcp_38"}
+{"subject": "MTC-2026-JCR-INT-3038", "predicate": "references_po", "object": "OMS-2026-PO-0636", "docId": "rcp_38"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5838", "docId": "inv_38"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0636", "docId": "po_38"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3038", "docId": "rcp_38"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "5838", "docId": "inv_38"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "OMS-2026-PO-0636", "docId": "po_38"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3038", "docId": "rcp_38"}
+{"subject": "5839", "predicate": "references_po", "object": "OMS-2026-PO-0637", "docId": "inv_39"}
+{"subject": "MTC-2026-JCR-INT-3039", "predicate": "confirms_invoice", "object": "5839", "docId": "rcp_39"}
+{"subject": "MTC-2026-JCR-INT-3039", "predicate": "references_po", "object": "OMS-2026-PO-0637", "docId": "rcp_39"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "5839", "docId": "inv_39"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0637", "docId": "po_39"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3039", "docId": "rcp_39"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5839", "docId": "inv_39"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0637", "docId": "po_39"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3039", "docId": "rcp_39"}
+{"subject": "5840", "predicate": "references_po", "object": "OMS-2026-PO-0638", "docId": "inv_40"}
+{"subject": "MTC-2026-JCR-INT-3040", "predicate": "confirms_invoice", "object": "5840", "docId": "rcp_40"}
+{"subject": "MTC-2026-JCR-INT-3040", "predicate": "references_po", "object": "OMS-2026-PO-0638", "docId": "rcp_40"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5840", "docId": "inv_40"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0638", "docId": "po_40"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3040", "docId": "rcp_40"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "5840", "docId": "inv_40"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "OMS-2026-PO-0638", "docId": "po_40"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3040", "docId": "rcp_40"}
+{"subject": "5841", "predicate": "references_po", "object": "OMS-2026-PO-0639", "docId": "inv_41"}
+{"subject": "MTC-2026-JCR-INT-3041", "predicate": "confirms_invoice", "object": "5841", "docId": "rcp_41"}
+{"subject": "MTC-2026-JCR-INT-3041", "predicate": "references_po", "object": "OMS-2026-PO-0639", "docId": "rcp_41"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "5841", "docId": "inv_41"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0639", "docId": "po_41"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3041", "docId": "rcp_41"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "5841", "docId": "inv_41"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "OMS-2026-PO-0639", "docId": "po_41"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3041", "docId": "rcp_41"}
+{"subject": "5842", "predicate": "references_po", "object": "OMS-2026-PO-0640", "docId": "inv_42"}
+{"subject": "MTC-2026-JCR-INT-3042", "predicate": "confirms_invoice", "object": "5842", "docId": "rcp_42"}
+{"subject": "MTC-2026-JCR-INT-3042", "predicate": "references_po", "object": "OMS-2026-PO-0640", "docId": "rcp_42"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5842", "docId": "inv_42"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0640", "docId": "po_42"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3042", "docId": "rcp_42"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5842", "docId": "inv_42"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0640", "docId": "po_42"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3042", "docId": "rcp_42"}
+{"subject": "5843", "predicate": "references_po", "object": "OMS-2026-PO-0641", "docId": "inv_43"}
+{"subject": "MTC-2026-JCR-INT-3043", "predicate": "confirms_invoice", "object": "5843", "docId": "rcp_43"}
+{"subject": "MTC-2026-JCR-INT-3043", "predicate": "references_po", "object": "OMS-2026-PO-0641", "docId": "rcp_43"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5843", "docId": "inv_43"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0641", "docId": "po_43"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3043", "docId": "rcp_43"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "5843", "docId": "inv_43"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "OMS-2026-PO-0641", "docId": "po_43"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3043", "docId": "rcp_43"}
+{"subject": "5844", "predicate": "references_po", "object": "OMS-2026-PO-0642", "docId": "inv_44"}
+{"subject": "MTC-2026-JCR-INT-3044", "predicate": "confirms_invoice", "object": "5844", "docId": "rcp_44"}
+{"subject": "MTC-2026-JCR-INT-3044", "predicate": "references_po", "object": "OMS-2026-PO-0642", "docId": "rcp_44"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5844", "docId": "inv_44"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0642", "docId": "po_44"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3044", "docId": "rcp_44"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "5844", "docId": "inv_44"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "OMS-2026-PO-0642", "docId": "po_44"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3044", "docId": "rcp_44"}
+{"subject": "5845", "predicate": "references_po", "object": "OMS-2026-PO-0643", "docId": "inv_45"}
+{"subject": "MTC-2026-JCR-INT-3045", "predicate": "confirms_invoice", "object": "5845", "docId": "rcp_45"}
+{"subject": "MTC-2026-JCR-INT-3045", "predicate": "references_po", "object": "OMS-2026-PO-0643", "docId": "rcp_45"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5845", "docId": "inv_45"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0643", "docId": "po_45"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3045", "docId": "rcp_45"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "5845", "docId": "inv_45"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "OMS-2026-PO-0643", "docId": "po_45"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3045", "docId": "rcp_45"}
+{"subject": "5846", "predicate": "references_po", "object": "OMS-2026-PO-0644", "docId": "inv_46"}
+{"subject": "MTC-2026-JCR-INT-3046", "predicate": "confirms_invoice", "object": "5846", "docId": "rcp_46"}
+{"subject": "MTC-2026-JCR-INT-3046", "predicate": "references_po", "object": "OMS-2026-PO-0644", "docId": "rcp_46"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "5846", "docId": "inv_46"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0644", "docId": "po_46"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3046", "docId": "rcp_46"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5846", "docId": "inv_46"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0644", "docId": "po_46"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3046", "docId": "rcp_46"}
+{"subject": "5847", "predicate": "references_po", "object": "OMS-2026-PO-0645", "docId": "inv_47"}
+{"subject": "MTC-2026-JCR-INT-3047", "predicate": "confirms_invoice", "object": "5847", "docId": "rcp_47"}
+{"subject": "MTC-2026-JCR-INT-3047", "predicate": "references_po", "object": "OMS-2026-PO-0645", "docId": "rcp_47"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5847", "docId": "inv_47"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0645", "docId": "po_47"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3047", "docId": "rcp_47"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5847", "docId": "inv_47"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0645", "docId": "po_47"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3047", "docId": "rcp_47"}
+{"subject": "5848", "predicate": "references_po", "object": "OMS-2026-PO-0646", "docId": "inv_48"}
+{"subject": "MTC-2026-JCR-INT-3048", "predicate": "confirms_invoice", "object": "5848", "docId": "rcp_48"}
+{"subject": "MTC-2026-JCR-INT-3048", "predicate": "references_po", "object": "OMS-2026-PO-0646", "docId": "rcp_48"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5848", "docId": "inv_48"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0646", "docId": "po_48"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3048", "docId": "rcp_48"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5848", "docId": "inv_48"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0646", "docId": "po_48"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3048", "docId": "rcp_48"}
+{"subject": "5849", "predicate": "references_po", "object": "OMS-2026-PO-0647", "docId": "inv_49"}
+{"subject": "MTC-2026-JCR-INT-3049", "predicate": "confirms_invoice", "object": "5849", "docId": "rcp_49"}
+{"subject": "MTC-2026-JCR-INT-3049", "predicate": "references_po", "object": "OMS-2026-PO-0647", "docId": "rcp_49"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5849", "docId": "inv_49"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0647", "docId": "po_49"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3049", "docId": "rcp_49"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "5849", "docId": "inv_49"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "OMS-2026-PO-0647", "docId": "po_49"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3049", "docId": "rcp_49"}
+{"subject": "5850", "predicate": "references_po", "object": "OMS-2026-PO-0648", "docId": "inv_50"}
+{"subject": "MTC-2026-JCR-INT-3050", "predicate": "confirms_invoice", "object": "5850", "docId": "rcp_50"}
+{"subject": "MTC-2026-JCR-INT-3050", "predicate": "references_po", "object": "OMS-2026-PO-0648", "docId": "rcp_50"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5850", "docId": "inv_50"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0648", "docId": "po_50"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3050", "docId": "rcp_50"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "5850", "docId": "inv_50"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "OMS-2026-PO-0648", "docId": "po_50"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3050", "docId": "rcp_50"}
+{"subject": "5851", "predicate": "references_po", "object": "OMS-2026-PO-0649", "docId": "inv_51"}
+{"subject": "MTC-2026-JCR-INT-3051", "predicate": "confirms_invoice", "object": "5851", "docId": "rcp_51"}
+{"subject": "MTC-2026-JCR-INT-3051", "predicate": "references_po", "object": "OMS-2026-PO-0649", "docId": "rcp_51"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "5851", "docId": "inv_51"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0649", "docId": "po_51"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3051", "docId": "rcp_51"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5851", "docId": "inv_51"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0649", "docId": "po_51"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3051", "docId": "rcp_51"}
+{"subject": "5852", "predicate": "references_po", "object": "OMS-2026-PO-0650", "docId": "inv_52"}
+{"subject": "MTC-2026-JCR-INT-3052", "predicate": "confirms_invoice", "object": "5852", "docId": "rcp_52"}
+{"subject": "MTC-2026-JCR-INT-3052", "predicate": "references_po", "object": "OMS-2026-PO-0650", "docId": "rcp_52"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "5852", "docId": "inv_52"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0650", "docId": "po_52"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3052", "docId": "rcp_52"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5852", "docId": "inv_52"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0650", "docId": "po_52"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3052", "docId": "rcp_52"}
+{"subject": "5853", "predicate": "references_po", "object": "OMS-2026-PO-0651", "docId": "inv_53"}
+{"subject": "MTC-2026-JCR-INT-3053", "predicate": "confirms_invoice", "object": "5853", "docId": "rcp_53"}
+{"subject": "MTC-2026-JCR-INT-3053", "predicate": "references_po", "object": "OMS-2026-PO-0651", "docId": "rcp_53"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "5853", "docId": "inv_53"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0651", "docId": "po_53"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3053", "docId": "rcp_53"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "5853", "docId": "inv_53"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "OMS-2026-PO-0651", "docId": "po_53"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3053", "docId": "rcp_53"}
+{"subject": "5854", "predicate": "references_po", "object": "OMS-2026-PO-0652", "docId": "inv_54"}
+{"subject": "MTC-2026-JCR-INT-3054", "predicate": "confirms_invoice", "object": "5854", "docId": "rcp_54"}
+{"subject": "MTC-2026-JCR-INT-3054", "predicate": "references_po", "object": "OMS-2026-PO-0652", "docId": "rcp_54"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5854", "docId": "inv_54"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0652", "docId": "po_54"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3054", "docId": "rcp_54"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "5854", "docId": "inv_54"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "OMS-2026-PO-0652", "docId": "po_54"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3054", "docId": "rcp_54"}
+{"subject": "5855", "predicate": "references_po", "object": "OMS-2026-PO-0653", "docId": "inv_55"}
+{"subject": "MTC-2026-JCR-INT-3055", "predicate": "confirms_invoice", "object": "5855", "docId": "rcp_55"}
+{"subject": "MTC-2026-JCR-INT-3055", "predicate": "references_po", "object": "OMS-2026-PO-0653", "docId": "rcp_55"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "5855", "docId": "inv_55"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0653", "docId": "po_55"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3055", "docId": "rcp_55"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "5855", "docId": "inv_55"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "OMS-2026-PO-0653", "docId": "po_55"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3055", "docId": "rcp_55"}
+{"subject": "5856", "predicate": "references_po", "object": "OMS-2026-PO-0654", "docId": "inv_56"}
+{"subject": "MTC-2026-JCR-INT-3056", "predicate": "confirms_invoice", "object": "5856", "docId": "rcp_56"}
+{"subject": "MTC-2026-JCR-INT-3056", "predicate": "references_po", "object": "OMS-2026-PO-0654", "docId": "rcp_56"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5856", "docId": "inv_56"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0654", "docId": "po_56"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3056", "docId": "rcp_56"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5856", "docId": "inv_56"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0654", "docId": "po_56"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3056", "docId": "rcp_56"}
+{"subject": "5857", "predicate": "references_po", "object": "OMS-2026-PO-0655", "docId": "inv_57"}
+{"subject": "MTC-2026-JCR-INT-3057", "predicate": "confirms_invoice", "object": "5857", "docId": "rcp_57"}
+{"subject": "MTC-2026-JCR-INT-3057", "predicate": "references_po", "object": "OMS-2026-PO-0655", "docId": "rcp_57"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5857", "docId": "inv_57"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0655", "docId": "po_57"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3057", "docId": "rcp_57"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "5857", "docId": "inv_57"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "OMS-2026-PO-0655", "docId": "po_57"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3057", "docId": "rcp_57"}
+{"subject": "5858", "predicate": "references_po", "object": "OMS-2026-PO-0656", "docId": "inv_58"}
+{"subject": "MTC-2026-JCR-INT-3058", "predicate": "confirms_invoice", "object": "5858", "docId": "rcp_58"}
+{"subject": "MTC-2026-JCR-INT-3058", "predicate": "references_po", "object": "OMS-2026-PO-0656", "docId": "rcp_58"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5858", "docId": "inv_58"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0656", "docId": "po_58"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3058", "docId": "rcp_58"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5858", "docId": "inv_58"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0656", "docId": "po_58"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3058", "docId": "rcp_58"}
+{"subject": "5859", "predicate": "references_po", "object": "OMS-2026-PO-0657", "docId": "inv_59"}
+{"subject": "MTC-2026-JCR-INT-3059", "predicate": "confirms_invoice", "object": "5859", "docId": "rcp_59"}
+{"subject": "MTC-2026-JCR-INT-3059", "predicate": "references_po", "object": "OMS-2026-PO-0657", "docId": "rcp_59"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "5859", "docId": "inv_59"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0657", "docId": "po_59"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3059", "docId": "rcp_59"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "5859", "docId": "inv_59"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "OMS-2026-PO-0657", "docId": "po_59"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3059", "docId": "rcp_59"}
+{"subject": "5860", "predicate": "references_po", "object": "OMS-2026-PO-0658", "docId": "inv_60"}
+{"subject": "MTC-2026-JCR-INT-3060", "predicate": "confirms_invoice", "object": "5860", "docId": "rcp_60"}
+{"subject": "MTC-2026-JCR-INT-3060", "predicate": "references_po", "object": "OMS-2026-PO-0658", "docId": "rcp_60"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5860", "docId": "inv_60"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0658", "docId": "po_60"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3060", "docId": "rcp_60"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "5860", "docId": "inv_60"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "OMS-2026-PO-0658", "docId": "po_60"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3060", "docId": "rcp_60"}
+{"subject": "5861", "predicate": "references_po", "object": "OMS-2026-PO-0659", "docId": "inv_61"}
+{"subject": "MTC-2026-JCR-INT-3061", "predicate": "confirms_invoice", "object": "5861", "docId": "rcp_61"}
+{"subject": "MTC-2026-JCR-INT-3061", "predicate": "references_po", "object": "OMS-2026-PO-0659", "docId": "rcp_61"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5861", "docId": "inv_61"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0659", "docId": "po_61"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3061", "docId": "rcp_61"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "5861", "docId": "inv_61"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "OMS-2026-PO-0659", "docId": "po_61"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3061", "docId": "rcp_61"}
+{"subject": "5862", "predicate": "references_po", "object": "OMS-2026-PO-0660", "docId": "inv_62"}
+{"subject": "MTC-2026-JCR-INT-3062", "predicate": "confirms_invoice", "object": "5862", "docId": "rcp_62"}
+{"subject": "MTC-2026-JCR-INT-3062", "predicate": "references_po", "object": "OMS-2026-PO-0660", "docId": "rcp_62"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5862", "docId": "inv_62"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0660", "docId": "po_62"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3062", "docId": "rcp_62"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "5862", "docId": "inv_62"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "OMS-2026-PO-0660", "docId": "po_62"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3062", "docId": "rcp_62"}
+{"subject": "5863", "predicate": "references_po", "object": "OMS-2026-PO-0661", "docId": "inv_63"}
+{"subject": "MTC-2026-JCR-INT-3063", "predicate": "confirms_invoice", "object": "5863", "docId": "rcp_63"}
+{"subject": "MTC-2026-JCR-INT-3063", "predicate": "references_po", "object": "OMS-2026-PO-0661", "docId": "rcp_63"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5863", "docId": "inv_63"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0661", "docId": "po_63"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3063", "docId": "rcp_63"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "5863", "docId": "inv_63"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "OMS-2026-PO-0661", "docId": "po_63"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3063", "docId": "rcp_63"}
+{"subject": "5864", "predicate": "references_po", "object": "OMS-2026-PO-0662", "docId": "inv_64"}
+{"subject": "MTC-2026-JCR-INT-3064", "predicate": "confirms_invoice", "object": "5864", "docId": "rcp_64"}
+{"subject": "MTC-2026-JCR-INT-3064", "predicate": "references_po", "object": "OMS-2026-PO-0662", "docId": "rcp_64"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "5864", "docId": "inv_64"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0662", "docId": "po_64"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3064", "docId": "rcp_64"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "5864", "docId": "inv_64"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "OMS-2026-PO-0662", "docId": "po_64"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3064", "docId": "rcp_64"}
+{"subject": "5865", "predicate": "references_po", "object": "OMS-2026-PO-0663", "docId": "inv_65"}
+{"subject": "MTC-2026-JCR-INT-3065", "predicate": "confirms_invoice", "object": "5865", "docId": "rcp_65"}
+{"subject": "MTC-2026-JCR-INT-3065", "predicate": "references_po", "object": "OMS-2026-PO-0663", "docId": "rcp_65"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5865", "docId": "inv_65"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0663", "docId": "po_65"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3065", "docId": "rcp_65"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "5865", "docId": "inv_65"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "OMS-2026-PO-0663", "docId": "po_65"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3065", "docId": "rcp_65"}
+{"subject": "5866", "predicate": "references_po", "object": "OMS-2026-PO-0664", "docId": "inv_66"}
+{"subject": "MTC-2026-JCR-INT-3066", "predicate": "confirms_invoice", "object": "5866", "docId": "rcp_66"}
+{"subject": "MTC-2026-JCR-INT-3066", "predicate": "references_po", "object": "OMS-2026-PO-0664", "docId": "rcp_66"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5866", "docId": "inv_66"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0664", "docId": "po_66"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3066", "docId": "rcp_66"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "5866", "docId": "inv_66"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "OMS-2026-PO-0664", "docId": "po_66"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3066", "docId": "rcp_66"}
+{"subject": "5867", "predicate": "references_po", "object": "OMS-2026-PO-0665", "docId": "inv_67"}
+{"subject": "MTC-2026-JCR-INT-3067", "predicate": "confirms_invoice", "object": "5867", "docId": "rcp_67"}
+{"subject": "MTC-2026-JCR-INT-3067", "predicate": "references_po", "object": "OMS-2026-PO-0665", "docId": "rcp_67"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5867", "docId": "inv_67"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0665", "docId": "po_67"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3067", "docId": "rcp_67"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "5867", "docId": "inv_67"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "OMS-2026-PO-0665", "docId": "po_67"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3067", "docId": "rcp_67"}
+{"subject": "5868", "predicate": "references_po", "object": "OMS-2026-PO-0666", "docId": "inv_68"}
+{"subject": "MTC-2026-JCR-INT-3068", "predicate": "confirms_invoice", "object": "5868", "docId": "rcp_68"}
+{"subject": "MTC-2026-JCR-INT-3068", "predicate": "references_po", "object": "OMS-2026-PO-0666", "docId": "rcp_68"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5868", "docId": "inv_68"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0666", "docId": "po_68"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3068", "docId": "rcp_68"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "5868", "docId": "inv_68"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "OMS-2026-PO-0666", "docId": "po_68"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3068", "docId": "rcp_68"}
+{"subject": "5869", "predicate": "references_po", "object": "OMS-2026-PO-0667", "docId": "inv_69"}
+{"subject": "MTC-2026-JCR-INT-3069", "predicate": "confirms_invoice", "object": "5869", "docId": "rcp_69"}
+{"subject": "MTC-2026-JCR-INT-3069", "predicate": "references_po", "object": "OMS-2026-PO-0667", "docId": "rcp_69"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5869", "docId": "inv_69"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0667", "docId": "po_69"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3069", "docId": "rcp_69"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "5869", "docId": "inv_69"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "OMS-2026-PO-0667", "docId": "po_69"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3069", "docId": "rcp_69"}
+{"subject": "5870", "predicate": "references_po", "object": "OMS-2026-PO-0668", "docId": "inv_70"}
+{"subject": "MTC-2026-JCR-INT-3070", "predicate": "confirms_invoice", "object": "5870", "docId": "rcp_70"}
+{"subject": "MTC-2026-JCR-INT-3070", "predicate": "references_po", "object": "OMS-2026-PO-0668", "docId": "rcp_70"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "5870", "docId": "inv_70"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0668", "docId": "po_70"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3070", "docId": "rcp_70"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5870", "docId": "inv_70"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0668", "docId": "po_70"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3070", "docId": "rcp_70"}
+{"subject": "5871", "predicate": "references_po", "object": "OMS-2026-PO-0669", "docId": "inv_71"}
+{"subject": "MTC-2026-JCR-INT-3071", "predicate": "confirms_invoice", "object": "5871", "docId": "rcp_71"}
+{"subject": "MTC-2026-JCR-INT-3071", "predicate": "references_po", "object": "OMS-2026-PO-0669", "docId": "rcp_71"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5871", "docId": "inv_71"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0669", "docId": "po_71"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3071", "docId": "rcp_71"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5871", "docId": "inv_71"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0669", "docId": "po_71"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3071", "docId": "rcp_71"}
+{"subject": "5872", "predicate": "references_po", "object": "OMS-2026-PO-0670", "docId": "inv_72"}
+{"subject": "MTC-2026-JCR-INT-3072", "predicate": "confirms_invoice", "object": "5872", "docId": "rcp_72"}
+{"subject": "MTC-2026-JCR-INT-3072", "predicate": "references_po", "object": "OMS-2026-PO-0670", "docId": "rcp_72"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5872", "docId": "inv_72"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0670", "docId": "po_72"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3072", "docId": "rcp_72"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5872", "docId": "inv_72"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0670", "docId": "po_72"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3072", "docId": "rcp_72"}
+{"subject": "5873", "predicate": "references_po", "object": "OMS-2026-PO-0671", "docId": "inv_73"}
+{"subject": "MTC-2026-JCR-INT-3073", "predicate": "confirms_invoice", "object": "5873", "docId": "rcp_73"}
+{"subject": "MTC-2026-JCR-INT-3073", "predicate": "references_po", "object": "OMS-2026-PO-0671", "docId": "rcp_73"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5873", "docId": "inv_73"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0671", "docId": "po_73"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3073", "docId": "rcp_73"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "5873", "docId": "inv_73"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "OMS-2026-PO-0671", "docId": "po_73"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3073", "docId": "rcp_73"}
+{"subject": "5874", "predicate": "references_po", "object": "OMS-2026-PO-0672", "docId": "inv_74"}
+{"subject": "MTC-2026-JCR-INT-3074", "predicate": "confirms_invoice", "object": "5874", "docId": "rcp_74"}
+{"subject": "MTC-2026-JCR-INT-3074", "predicate": "references_po", "object": "OMS-2026-PO-0672", "docId": "rcp_74"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5874", "docId": "inv_74"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0672", "docId": "po_74"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3074", "docId": "rcp_74"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "5874", "docId": "inv_74"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "OMS-2026-PO-0672", "docId": "po_74"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3074", "docId": "rcp_74"}
+{"subject": "5875", "predicate": "references_po", "object": "OMS-2026-PO-0673", "docId": "inv_75"}
+{"subject": "MTC-2026-JCR-INT-3075", "predicate": "confirms_invoice", "object": "5875", "docId": "rcp_75"}
+{"subject": "MTC-2026-JCR-INT-3075", "predicate": "references_po", "object": "OMS-2026-PO-0673", "docId": "rcp_75"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5875", "docId": "inv_75"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0673", "docId": "po_75"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3075", "docId": "rcp_75"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5875", "docId": "inv_75"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0673", "docId": "po_75"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3075", "docId": "rcp_75"}
+{"subject": "5876", "predicate": "references_po", "object": "OMS-2026-PO-0674", "docId": "inv_76"}
+{"subject": "MTC-2026-JCR-INT-3076", "predicate": "confirms_invoice", "object": "5876", "docId": "rcp_76"}
+{"subject": "MTC-2026-JCR-INT-3076", "predicate": "references_po", "object": "OMS-2026-PO-0674", "docId": "rcp_76"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5876", "docId": "inv_76"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0674", "docId": "po_76"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3076", "docId": "rcp_76"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "5876", "docId": "inv_76"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "OMS-2026-PO-0674", "docId": "po_76"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3076", "docId": "rcp_76"}
+{"subject": "5877", "predicate": "references_po", "object": "OMS-2026-PO-0675", "docId": "inv_77"}
+{"subject": "MTC-2026-JCR-INT-3077", "predicate": "confirms_invoice", "object": "5877", "docId": "rcp_77"}
+{"subject": "MTC-2026-JCR-INT-3077", "predicate": "references_po", "object": "OMS-2026-PO-0675", "docId": "rcp_77"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5877", "docId": "inv_77"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0675", "docId": "po_77"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3077", "docId": "rcp_77"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "5877", "docId": "inv_77"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "OMS-2026-PO-0675", "docId": "po_77"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3077", "docId": "rcp_77"}
+{"subject": "5878", "predicate": "references_po", "object": "OMS-2026-PO-0676", "docId": "inv_78"}
+{"subject": "MTC-2026-JCR-INT-3078", "predicate": "confirms_invoice", "object": "5878", "docId": "rcp_78"}
+{"subject": "MTC-2026-JCR-INT-3078", "predicate": "references_po", "object": "OMS-2026-PO-0676", "docId": "rcp_78"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5878", "docId": "inv_78"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0676", "docId": "po_78"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3078", "docId": "rcp_78"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5878", "docId": "inv_78"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0676", "docId": "po_78"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3078", "docId": "rcp_78"}
+{"subject": "5879", "predicate": "references_po", "object": "OMS-2026-PO-0677", "docId": "inv_79"}
+{"subject": "MTC-2026-JCR-INT-3079", "predicate": "confirms_invoice", "object": "5879", "docId": "rcp_79"}
+{"subject": "MTC-2026-JCR-INT-3079", "predicate": "references_po", "object": "OMS-2026-PO-0677", "docId": "rcp_79"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "5879", "docId": "inv_79"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0677", "docId": "po_79"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3079", "docId": "rcp_79"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "5879", "docId": "inv_79"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "OMS-2026-PO-0677", "docId": "po_79"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3079", "docId": "rcp_79"}
+{"subject": "5880", "predicate": "references_po", "object": "OMS-2026-PO-0678", "docId": "inv_80"}
+{"subject": "MTC-2026-JCR-INT-3080", "predicate": "confirms_invoice", "object": "5880", "docId": "rcp_80"}
+{"subject": "MTC-2026-JCR-INT-3080", "predicate": "references_po", "object": "OMS-2026-PO-0678", "docId": "rcp_80"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5880", "docId": "inv_80"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0678", "docId": "po_80"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3080", "docId": "rcp_80"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5880", "docId": "inv_80"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0678", "docId": "po_80"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3080", "docId": "rcp_80"}
+{"subject": "5881", "predicate": "references_po", "object": "OMS-2026-PO-0679", "docId": "inv_81"}
+{"subject": "MTC-2026-JCR-INT-3081", "predicate": "confirms_invoice", "object": "5881", "docId": "rcp_81"}
+{"subject": "MTC-2026-JCR-INT-3081", "predicate": "references_po", "object": "OMS-2026-PO-0679", "docId": "rcp_81"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5881", "docId": "inv_81"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0679", "docId": "po_81"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3081", "docId": "rcp_81"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "5881", "docId": "inv_81"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "OMS-2026-PO-0679", "docId": "po_81"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3081", "docId": "rcp_81"}
+{"subject": "5882", "predicate": "references_po", "object": "OMS-2026-PO-0680", "docId": "inv_82"}
+{"subject": "MTC-2026-JCR-INT-3082", "predicate": "confirms_invoice", "object": "5882", "docId": "rcp_82"}
+{"subject": "MTC-2026-JCR-INT-3082", "predicate": "references_po", "object": "OMS-2026-PO-0680", "docId": "rcp_82"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "5882", "docId": "inv_82"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0680", "docId": "po_82"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3082", "docId": "rcp_82"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "5882", "docId": "inv_82"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "OMS-2026-PO-0680", "docId": "po_82"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3082", "docId": "rcp_82"}
+{"subject": "5883", "predicate": "references_po", "object": "OMS-2026-PO-0681", "docId": "inv_83"}
+{"subject": "MTC-2026-JCR-INT-3083", "predicate": "confirms_invoice", "object": "5883", "docId": "rcp_83"}
+{"subject": "MTC-2026-JCR-INT-3083", "predicate": "references_po", "object": "OMS-2026-PO-0681", "docId": "rcp_83"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "5883", "docId": "inv_83"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0681", "docId": "po_83"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3083", "docId": "rcp_83"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "5883", "docId": "inv_83"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "OMS-2026-PO-0681", "docId": "po_83"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3083", "docId": "rcp_83"}
+{"subject": "5884", "predicate": "references_po", "object": "OMS-2026-PO-0682", "docId": "inv_84"}
+{"subject": "MTC-2026-JCR-INT-3084", "predicate": "confirms_invoice", "object": "5884", "docId": "rcp_84"}
+{"subject": "MTC-2026-JCR-INT-3084", "predicate": "references_po", "object": "OMS-2026-PO-0682", "docId": "rcp_84"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5884", "docId": "inv_84"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0682", "docId": "po_84"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3084", "docId": "rcp_84"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "5884", "docId": "inv_84"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "OMS-2026-PO-0682", "docId": "po_84"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3084", "docId": "rcp_84"}
+{"subject": "5885", "predicate": "references_po", "object": "OMS-2026-PO-0683", "docId": "inv_85"}
+{"subject": "MTC-2026-JCR-INT-3085", "predicate": "confirms_invoice", "object": "5885", "docId": "rcp_85"}
+{"subject": "MTC-2026-JCR-INT-3085", "predicate": "references_po", "object": "OMS-2026-PO-0683", "docId": "rcp_85"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5885", "docId": "inv_85"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0683", "docId": "po_85"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3085", "docId": "rcp_85"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "5885", "docId": "inv_85"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "OMS-2026-PO-0683", "docId": "po_85"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3085", "docId": "rcp_85"}
+{"subject": "5886", "predicate": "references_po", "object": "OMS-2026-PO-0684", "docId": "inv_86"}
+{"subject": "MTC-2026-JCR-INT-3086", "predicate": "confirms_invoice", "object": "5886", "docId": "rcp_86"}
+{"subject": "MTC-2026-JCR-INT-3086", "predicate": "references_po", "object": "OMS-2026-PO-0684", "docId": "rcp_86"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5886", "docId": "inv_86"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0684", "docId": "po_86"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3086", "docId": "rcp_86"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "5886", "docId": "inv_86"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "OMS-2026-PO-0684", "docId": "po_86"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3086", "docId": "rcp_86"}
+{"subject": "5887", "predicate": "references_po", "object": "OMS-2026-PO-0685", "docId": "inv_87"}
+{"subject": "MTC-2026-JCR-INT-3087", "predicate": "confirms_invoice", "object": "5887", "docId": "rcp_87"}
+{"subject": "MTC-2026-JCR-INT-3087", "predicate": "references_po", "object": "OMS-2026-PO-0685", "docId": "rcp_87"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5887", "docId": "inv_87"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0685", "docId": "po_87"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3087", "docId": "rcp_87"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "5887", "docId": "inv_87"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "OMS-2026-PO-0685", "docId": "po_87"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3087", "docId": "rcp_87"}
+{"subject": "5888", "predicate": "references_po", "object": "OMS-2026-PO-0686", "docId": "inv_88"}
+{"subject": "MTC-2026-JCR-INT-3088", "predicate": "confirms_invoice", "object": "5888", "docId": "rcp_88"}
+{"subject": "MTC-2026-JCR-INT-3088", "predicate": "references_po", "object": "OMS-2026-PO-0686", "docId": "rcp_88"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5888", "docId": "inv_88"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0686", "docId": "po_88"}
+{"subject": "Qasr Al Abwab Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3088", "docId": "rcp_88"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5888", "docId": "inv_88"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0686", "docId": "po_88"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3088", "docId": "rcp_88"}
+{"subject": "5889", "predicate": "references_po", "object": "OMS-2026-PO-0687", "docId": "inv_89"}
+{"subject": "MTC-2026-JCR-INT-3089", "predicate": "confirms_invoice", "object": "5889", "docId": "rcp_89"}
+{"subject": "MTC-2026-JCR-INT-3089", "predicate": "references_po", "object": "OMS-2026-PO-0687", "docId": "rcp_89"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "5889", "docId": "inv_89"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0687", "docId": "po_89"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3089", "docId": "rcp_89"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "5889", "docId": "inv_89"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "OMS-2026-PO-0687", "docId": "po_89"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3089", "docId": "rcp_89"}
+{"subject": "5890", "predicate": "references_po", "object": "OMS-2026-PO-0688", "docId": "inv_90"}
+{"subject": "MTC-2026-JCR-INT-3090", "predicate": "confirms_invoice", "object": "5890", "docId": "rcp_90"}
+{"subject": "MTC-2026-JCR-INT-3090", "predicate": "references_po", "object": "OMS-2026-PO-0688", "docId": "rcp_90"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "5890", "docId": "inv_90"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0688", "docId": "po_90"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3090", "docId": "rcp_90"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "5890", "docId": "inv_90"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "OMS-2026-PO-0688", "docId": "po_90"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3090", "docId": "rcp_90"}
+{"subject": "5891", "predicate": "references_po", "object": "OMS-2026-PO-0689", "docId": "inv_91"}
+{"subject": "MTC-2026-JCR-INT-3091", "predicate": "confirms_invoice", "object": "5891", "docId": "rcp_91"}
+{"subject": "MTC-2026-JCR-INT-3091", "predicate": "references_po", "object": "OMS-2026-PO-0689", "docId": "rcp_91"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "5891", "docId": "inv_91"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0689", "docId": "po_91"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3091", "docId": "rcp_91"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "5891", "docId": "inv_91"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "OMS-2026-PO-0689", "docId": "po_91"}
+{"subject": "Najma Office Fitout", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3091", "docId": "rcp_91"}
+{"subject": "5892", "predicate": "references_po", "object": "OMS-2026-PO-0690", "docId": "inv_92"}
+{"subject": "MTC-2026-JCR-INT-3092", "predicate": "confirms_invoice", "object": "5892", "docId": "rcp_92"}
+{"subject": "MTC-2026-JCR-INT-3092", "predicate": "references_po", "object": "OMS-2026-PO-0690", "docId": "rcp_92"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "5892", "docId": "inv_92"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0690", "docId": "po_92"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3092", "docId": "rcp_92"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5892", "docId": "inv_92"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0690", "docId": "po_92"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3092", "docId": "rcp_92"}
+{"subject": "5893", "predicate": "references_po", "object": "OMS-2026-PO-0691", "docId": "inv_93"}
+{"subject": "MTC-2026-JCR-INT-3093", "predicate": "confirms_invoice", "object": "5893", "docId": "rcp_93"}
+{"subject": "MTC-2026-JCR-INT-3093", "predicate": "references_po", "object": "OMS-2026-PO-0691", "docId": "rcp_93"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5893", "docId": "inv_93"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0691", "docId": "po_93"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3093", "docId": "rcp_93"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5893", "docId": "inv_93"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0691", "docId": "po_93"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3093", "docId": "rcp_93"}
+{"subject": "5894", "predicate": "references_po", "object": "OMS-2026-PO-0692", "docId": "inv_94"}
+{"subject": "MTC-2026-JCR-INT-3094", "predicate": "confirms_invoice", "object": "5894", "docId": "rcp_94"}
+{"subject": "MTC-2026-JCR-INT-3094", "predicate": "references_po", "object": "OMS-2026-PO-0692", "docId": "rcp_94"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5894", "docId": "inv_94"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0692", "docId": "po_94"}
+{"subject": "Manycon Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3094", "docId": "rcp_94"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "5894", "docId": "inv_94"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "OMS-2026-PO-0692", "docId": "po_94"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3094", "docId": "rcp_94"}
+{"subject": "5895", "predicate": "references_po", "object": "OMS-2026-PO-0693", "docId": "inv_95"}
+{"subject": "MTC-2026-JCR-INT-3095", "predicate": "confirms_invoice", "object": "5895", "docId": "rcp_95"}
+{"subject": "MTC-2026-JCR-INT-3095", "predicate": "references_po", "object": "OMS-2026-PO-0693", "docId": "rcp_95"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "5895", "docId": "inv_95"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0693", "docId": "po_95"}
+{"subject": "Fire Protection Specialist", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3095", "docId": "rcp_95"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5895", "docId": "inv_95"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0693", "docId": "po_95"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3095", "docId": "rcp_95"}
+{"subject": "5896", "predicate": "references_po", "object": "OMS-2026-PO-0694", "docId": "inv_96"}
+{"subject": "MTC-2026-JCR-INT-3096", "predicate": "confirms_invoice", "object": "5896", "docId": "rcp_96"}
+{"subject": "MTC-2026-JCR-INT-3096", "predicate": "references_po", "object": "OMS-2026-PO-0694", "docId": "rcp_96"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5896", "docId": "inv_96"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0694", "docId": "po_96"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3096", "docId": "rcp_96"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "5896", "docId": "inv_96"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "OMS-2026-PO-0694", "docId": "po_96"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3096", "docId": "rcp_96"}
+{"subject": "5897", "predicate": "references_po", "object": "OMS-2026-PO-0695", "docId": "inv_97"}
+{"subject": "MTC-2026-JCR-INT-3097", "predicate": "confirms_invoice", "object": "5897", "docId": "rcp_97"}
+{"subject": "MTC-2026-JCR-INT-3097", "predicate": "references_po", "object": "OMS-2026-PO-0695", "docId": "rcp_97"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5897", "docId": "inv_97"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0695", "docId": "po_97"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3097", "docId": "rcp_97"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "5897", "docId": "inv_97"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "OMS-2026-PO-0695", "docId": "po_97"}
+{"subject": "Doha Showroom Upgrade", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3097", "docId": "rcp_97"}
+{"subject": "5898", "predicate": "references_po", "object": "OMS-2026-PO-0696", "docId": "inv_98"}
+{"subject": "MTC-2026-JCR-INT-3098", "predicate": "confirms_invoice", "object": "5898", "docId": "rcp_98"}
+{"subject": "MTC-2026-JCR-INT-3098", "predicate": "references_po", "object": "OMS-2026-PO-0696", "docId": "rcp_98"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5898", "docId": "inv_98"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0696", "docId": "po_98"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3098", "docId": "rcp_98"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "5898", "docId": "inv_98"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "OMS-2026-PO-0696", "docId": "po_98"}
+{"subject": "Katara Metro Station", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3098", "docId": "rcp_98"}
+{"subject": "5899", "predicate": "references_po", "object": "OMS-2026-PO-0697", "docId": "inv_99"}
+{"subject": "MTC-2026-JCR-INT-3099", "predicate": "confirms_invoice", "object": "5899", "docId": "rcp_99"}
+{"subject": "MTC-2026-JCR-INT-3099", "predicate": "references_po", "object": "OMS-2026-PO-0697", "docId": "rcp_99"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "5899", "docId": "inv_99"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "OMS-2026-PO-0697", "docId": "po_99"}
+{"subject": "Al Mirza Trading & Contracting WLL", "predicate": "is_vendor_for", "object": "MTC-2026-JCR-INT-3099", "docId": "rcp_99"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "5899", "docId": "inv_99"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "OMS-2026-PO-0697", "docId": "po_99"}
+{"subject": "Warehouse Refurbishment – Street 41 (Al Asmakh)", "predicate": "has_document", "object": "MTC-2026-JCR-INT-3099", "docId": "rcp_99"}

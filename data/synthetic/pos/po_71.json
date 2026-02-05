@@ -1,0 +1,28 @@
+{
+  "doc_id": "po_71",
+  "doc_type": "purchase_order",
+  "po_number": "OMS-2026-PO-0669",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Qasr Al Abwab Trading & Contracting WLL",
+  "project": "Katara Metro Station",
+  "date": "January 15, 2026",
+  "currency": "QAR",
+  "payment_terms": "100% upon completion",
+  "items": [
+    {
+      "description": "FM 200 integrity testing (1-QCDD)",
+      "qty": 2,
+      "unit": "Lot",
+      "unit_price": 1000.0,
+      "amount": 2000.0
+    }
+  ],
+  "totals": {
+    "subtotal": 2000.0,
+    "tax": 0.0,
+    "total": 2000.0
+  },
+  "references": {
+    "quote_ref": "3271"
+  }
+}

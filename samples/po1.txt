@@ -1,0 +1,13 @@
+Purchase Order
+Buyer: Fabrikam Ltd
+Vendor: Contoso Ltd
+PO Number: PO-7789
+PO Date: 2025-02-10
+Currency: USD
+
+Item | Qty | Unit Price | Line Total
+Cloud Credits | 3 | 100.00 | 300.00
+Support Hours | 10 | 15.00 | 150.00
+
+Total: $450.00
+

@@ -1,0 +1,60 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "KIE Label Schema (Qatar P2P)",
+  "type": "object",
+  "properties": {
+    "document": {
+      "type": "object",
+      "properties": {
+        "file_name": {"type": "string"},
+        "doc_type": {"type": "string", "enum": ["invoice", "po", "receipt", "contract"]},
+        "template": {"type": "string"},
+        "pages": {"type": "integer", "minimum": 1}
+      },
+      "required": ["file_name", "doc_type", "pages"]
+    },
+    "fields": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "value": {},
+          "spans": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "page": {"type": "integer", "minimum": 1},
+                "bbox": {
+                  "type": "array",
+                  "items": {"type": "number"},
+                  "minItems": 4,
+                  "maxItems": 4
+                },
+                "text": {"type": "string"}
+              },
+              "required": ["page", "bbox"]
+            }
+          }
+        },
+        "required": ["value", "spans"]
+      }
+    }
+  },
+  "required": ["document", "fields"],
+  "examples": [
+    {
+      "document": {"file_name": "INV-727.pdf", "doc_type": "invoice", "template": "qasr_invoice", "pages": 1},
+      "fields": {
+        "invoice_number": {"value": "QATC-INV2026-00727", "spans": [{"page": 1, "bbox": [120, 210, 360, 240]}]},
+        "vendor": {"value": "Qasr Al Abwab Trading & Contracting WLL", "spans": [{"page": 1, "bbox": [80, 120, 540, 160]}]},
+        "currency": {"value": "QAR", "spans": [{"page": 1, "bbox": [420, 720, 480, 740]}]},
+        "subtotal": {"value": 30000.0, "spans": [{"page": 1, "bbox": [460, 700, 560, 730], "text": "QAR 30,000.00"}]},
+        "tax": {"value": 0.0, "spans": [{"page": 1, "bbox": [460, 720, 560, 740]}]},
+        "total": {"value": 30000.0, "spans": [{"page": 1, "bbox": [460, 740, 560, 770], "text": "TOTAL AMOUNT QAR 30,000.00"}]},
+        "lpo_ref": {"value": "OMS-2025-PO-0598", "spans": [{"page": 1, "bbox": [140, 330, 380, 360]}]}
+      }
+    }
+  ]
+}
+

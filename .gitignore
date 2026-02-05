@@ -1,1 +1,20 @@
+# Local virtual envs
 idp_env/
+.venv/
+venv/
+.conda
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local outputs
+out/
+cache/
+*.log
+
+# OS/editor
+.DS_Store
+*.swp
+.env
+.env.*

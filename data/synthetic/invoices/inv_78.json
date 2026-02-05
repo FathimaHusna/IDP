@@ -1,0 +1,38 @@
+{
+  "doc_id": "inv_78",
+  "doc_type": "invoice",
+  "invoice_number": "5878",
+  "invoice_type": "PROFORMA INVOICE",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Manycon Trading & Contracting WLL",
+  "project": "Katara Metro Station",
+  "date": "13-JAN-2026",
+  "due_date": "13-JAN-2026",
+  "currency": "QAR",
+  "payment_terms": "40% advance 60% upon delivery",
+  "items": [
+    {
+      "description": "Supply & installation of non-fire rated wood door with HW set",
+      "qty": 1,
+      "unit": "Nos",
+      "unit_price": 1000.0,
+      "amount": 1000.0
+    }
+  ],
+  "lpo_ref": "OMS-2026-PO-0676",
+  "totals": {
+    "subtotal": 1000.0,
+    "tax": 50.0,
+    "discount": 0.0,
+    "advance_received": 420.0,
+    "retention": 0.0,
+    "total": 1050.0,
+    "amount_due": 630.0
+  },
+  "bank": {
+    "iban": "QA21 MAFR 0000 0000 0011 1040 9700 1",
+    "swift": "MAFRQAQA",
+    "bank": "ALRAYAN",
+    "branch": "SALWA ROAD BRANCH"
+  }
+}

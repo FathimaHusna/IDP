@@ -1,0 +1,38 @@
+{
+  "doc_id": "inv_80",
+  "doc_type": "invoice",
+  "invoice_number": "5880",
+  "invoice_type": "PROFORMA INVOICE",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Qasr Al Abwab Trading & Contracting WLL",
+  "project": "Katara Metro Station",
+  "date": "29-JAN-2026",
+  "due_date": "02-FEB-2026",
+  "currency": "QAR",
+  "payment_terms": "40% advance 60% upon delivery",
+  "items": [
+    {
+      "description": "Glass door with wooden frame (lumpsum)",
+      "qty": 1,
+      "unit": "Lot",
+      "unit_price": 3500.0,
+      "amount": 3500.0
+    }
+  ],
+  "lpo_ref": "OMS-2026-PO-0678",
+  "totals": {
+    "subtotal": 3500.0,
+    "tax": 0.0,
+    "discount": 0.0,
+    "advance_received": 1400.0,
+    "retention": 0.0,
+    "total": 3500.0,
+    "amount_due": 2100.0
+  },
+  "bank": {
+    "iban": "QA21 MAFR 0000 0000 0011 1040 9700 1",
+    "swift": "MAFRQAQA",
+    "bank": "ALRAYAN",
+    "branch": "SALWA ROAD BRANCH"
+  }
+}

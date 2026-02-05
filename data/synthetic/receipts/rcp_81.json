@@ -1,0 +1,16 @@
+{
+  "doc_id": "rcp_81",
+  "doc_type": "job_completion_certificate",
+  "reference": "MTC-2026-JCR-INT-3081",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Qasr Al Abwab Trading & Contracting WLL",
+  "project": "Najma Office Fitout",
+  "date": "13-FEB-2026",
+  "work_description": "FM200 ROOM INTEGRITY TEST (1 QCDD)",
+  "unit": "LUMPSUM",
+  "qty": 1,
+  "completion": "100% COMPLETED",
+  "lpo_ref": "OMS-2026-PO-0679",
+  "invoice_ref": "5881",
+  "amount": 14700.0
+}

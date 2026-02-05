@@ -1,0 +1,38 @@
+{
+  "doc_id": "inv_67",
+  "doc_type": "invoice",
+  "invoice_number": "5867",
+  "invoice_type": "فاتورة ضريبية",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Qasr Al Abwab Trading & Contracting WLL",
+  "project": "Warehouse Refurbishment – Street 41 (Al Asmakh)",
+  "date": "January 16, 2026",
+  "due_date": "12-JAN-2026",
+  "currency": "QAR",
+  "payment_terms": "40% advance 55% progress 5% retention",
+  "items": [
+    {
+      "description": "Glass door with wooden frame (lumpsum)",
+      "qty": 2,
+      "unit": "Nos",
+      "unit_price": 1000.0,
+      "amount": 2000.0
+    }
+  ],
+  "lpo_ref": "OMS-2026-PO-0665",
+  "totals": {
+    "subtotal": 2000.0,
+    "tax": 100.0,
+    "discount": 0.0,
+    "advance_received": 840.0,
+    "retention": 105.0,
+    "total": 2100.0,
+    "amount_due": 1155.0
+  },
+  "bank": {
+    "iban": "QA21 MAFR 0000 0000 0011 1040 9700 1",
+    "swift": "MAFRQAQA",
+    "bank": "ALRAYAN",
+    "branch": "SALWA ROAD BRANCH"
+  }
+}

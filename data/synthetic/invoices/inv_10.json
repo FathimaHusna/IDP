@@ -1,0 +1,38 @@
+{
+  "doc_id": "inv_10",
+  "doc_type": "invoice",
+  "invoice_number": "5810",
+  "invoice_type": "TAX INVOICE",
+  "buyer": "ORYXI Maintenance Services (Buyer)",
+  "vendor": "Manycon Trading & Contracting WLL",
+  "project": "Najma Office Fitout",
+  "date": "February 05, 2026",
+  "due_date": "February 01, 2026",
+  "currency": "QAR",
+  "payment_terms": "40% advance 55% progress 5% retention",
+  "items": [
+    {
+      "description": "FM 200 integrity testing (1-QCDD)",
+      "qty": 2,
+      "unit": "Nos",
+      "unit_price": 3500.0,
+      "amount": 7000.0
+    }
+  ],
+  "lpo_ref": "OMS-2026-PO-0608",
+  "totals": {
+    "subtotal": 7000.0,
+    "tax": 350.0,
+    "discount": 0.0,
+    "advance_received": 2940.0,
+    "retention": 367.5,
+    "total": 7350.0,
+    "amount_due": 4042.5
+  },
+  "bank": {
+    "iban": "QA21 MAFR 0000 0000 0011 1040 9700 1",
+    "swift": "MAFRQAQA",
+    "bank": "ALRAYAN",
+    "branch": "SALWA ROAD BRANCH"
+  }
+}
